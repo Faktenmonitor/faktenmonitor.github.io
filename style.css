@@ -1,0 +1,86 @@
+:root {
+  --bg: #f6f8f9; --surface: #ffffff; --ink: #16222a; --muted: #55636d; --rule: #d3dce1;
+  --petrol: #156082; --link: #156082; --ost: #ffc000; --west: #156082; --berlin: #ffffff;
+  --l-ost: #e97132; --eu-oth: #c4ccd2; --eu-moe: #7d8a94; --l-west: #215f9a; --agg: #eef3f5; --band: #156082; --band-ink: #ffffff;
+  --serif: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  --sans: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    color-scheme: dark;
+    --bg: #11181d; --surface: #182229; --ink: #e4eaee; --muted: #9aa8b1; --rule: #2c3a43;
+    --link: #7cc0e0; --west: #3d8fb8; --berlin: #182229; --agg: #1e2b33; --band: #0d3a4f; --band-ink: #e4eaee;
+    --l-west: #8fbfe6; --eu-oth: #3a4852; --eu-moe: #8e9ca6;
+  }
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 var(--sans); }
+a { color: var(--link); text-underline-offset: 2px; }
+a:focus-visible { outline: 2px solid var(--ost); outline-offset: 2px; }
+header.site { background: var(--band); border-bottom: 4px solid var(--ost); padding: 14px 20px; }
+.brand { color: var(--band-ink); text-decoration: none; font: 600 1.15rem/1.2 var(--serif); }
+.brand span { font-weight: 400; }
+main { max-width: 1100px; margin: 0 auto; padding: 8px 20px 48px; }
+.crumbs { font-size: .85rem; color: var(--muted); margin: 10px 0 18px; min-height: 1em; }
+.crumbs a { color: var(--muted); }
+h1 { font: 600 clamp(1.5rem, 3.2vw, 2.1rem)/1.2 var(--serif); margin: 0 0 8px; max-width: 34em; }
+h2 { font: 600 1.25rem/1.3 var(--serif); margin: 36px 0 10px; }
+p { max-width: 72ch; }
+.sub { color: var(--muted); margin-top: 0; }
+.lead { font: 1.15rem/1.55 var(--serif); }
+.key { border-left: 4px solid var(--ost); padding: 4px 0 4px 18px; margin: 22px 0; }
+.key p { font: 1.05rem/1.6 var(--serif); margin: 0 0 6px; }
+figure { margin: 24px 0; background: var(--surface); border: 1px solid var(--rule); padding: 14px 14px 8px; }
+.chart { width: 100%; height: auto; display: block; }
+.chart .bar { stroke: var(--ink); stroke-width: .8; }
+.chart .b-ost { fill: var(--ost); } .chart .b-west { fill: var(--west); }
+.chart .b-ber { fill: var(--berlin); } .chart .hatch { stroke: var(--ink); stroke-width: 1.4; }
+.chart .axis { stroke: var(--muted); stroke-width: 1; }
+.chart .avg { stroke-width: 2.5; } .chart .l-ost { stroke: var(--l-ost); } .chart .l-west { stroke: var(--l-west); }
+.chart text { fill: var(--ink); font: 10px var(--sans); }
+.chart .val { text-anchor: middle; font-size: 9px; paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; } .chart .lab { text-anchor: end; fill: var(--muted); }
+figcaption { font-size: .9rem; color: var(--muted); margin-top: 6px; }
+.legend { font-size: .82rem; color: var(--muted); margin: 6px 0 0; max-width: none; }
+.k { display: inline-block; width: 12px; height: 12px; vertical-align: -1px; margin: 0 4px 0 12px; border: 1px solid var(--ink); }
+.k:first-child { margin-left: 0; }
+.k-ost { background: var(--ost); } .k-west { background: var(--west); }
+.k-ber { background: repeating-linear-gradient(45deg, var(--west) 0 2.5px, var(--ost) 2.5px 5px); }
+.k-lo, .k-lw { height: 0; border: 0; border-top: 2.5px solid var(--l-ost); width: 16px; vertical-align: 3px; }
+.k-lw { border-top-color: var(--l-west); }
+.scroll { overflow-x: auto; margin: 18px 0; border: 1px solid var(--rule); background: var(--surface); }
+table { border-collapse: collapse; width: 100%; font-size: .9rem; font-variant-numeric: tabular-nums; }
+caption { text-align: left; padding: 10px 12px; font-weight: 600; caption-side: top; }
+th, td { padding: 6px 12px; border-top: 1px solid var(--rule); white-space: nowrap; }
+thead th { border-top: 0; border-bottom: 2px solid var(--ink); vertical-align: bottom; text-align: right; }
+thead th:first-child, tbody th { text-align: left; }
+td { text-align: right; }
+tbody th { font-weight: 500; }
+tr.agg { background: var(--agg); } tr.agg th { font-weight: 650; }
+tr.grp th { background: var(--agg); font-weight: 650; }
+.note { color: var(--muted); font-size: .9rem; }
+.meta { display: grid; grid-template-columns: max-content 1fr; gap: 4px 18px; margin: 28px 0 12px; font-size: .92rem; }
+.meta dt { color: var(--muted); } .meta dd { margin: 0; }
+.dl { font-size: .92rem; }
+.toc ol { columns: 2 260px; padding-left: 1.4em; }
+.chap ul { list-style: none; padding: 0; margin: 0; }
+.chap li { padding: 7px 0; border-top: 1px solid var(--rule); }
+.chap li span { display: block; color: var(--muted); font-size: .85rem; }
+footer.site { border-top: 1px solid var(--rule); color: var(--muted); font-size: .85rem; padding: 18px 20px 30px; max-width: 1100px; margin: 0 auto; }
+footer.site a { color: var(--muted); }
+@media (max-width: 600px) { main { padding: 4px 14px 40px; } th, td { padding: 5px 8px; } }
+
+.chart .grid { stroke: var(--rule); stroke-width: 1; }
+.chart .tick { text-anchor: end; fill: var(--muted); font-size: 9px; }
+.chart .code { text-anchor: end; font-size: 6.5px; fill: var(--ink); }
+.chart .eu-oth { fill: var(--eu-oth); } .chart .eu-moe { fill: var(--eu-moe); }
+.chart .eu-west { fill: var(--west); } .chart .eu-ost { fill: var(--ost); }
+.k-oth { background: var(--eu-oth); border-color: var(--eu-oth); } .k-moe { background: var(--eu-moe); border-color: var(--eu-moe); }
+.chart .code2 { text-anchor: end; font-size: 9px; fill: var(--ink); }
+.chart .dot { stroke: var(--ink); stroke-width: .5; fill-opacity: .85; }
+.chart .dot-ost { fill: var(--ost); } .chart .dot-west { fill: var(--west); }
+.chart .ref100 { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.chart .kavg { fill: none; stroke: #ff0000; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart .kdot { fill: var(--west); }
+.k-dot { border-radius: 50%; } .k-avg { height: 0; border: 0; border-top: 2px solid #ff0000; width: 16px; vertical-align: 3px; }
+.legend .li { white-space: nowrap; margin-right: 6px; } .legend .li .k { margin-left: 0; }

@@ -1,0 +1,375 @@
+# ifo Faktenmonitor Ostdeutschland
+
+> Der ifo Faktenmonitor wurde auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
+
+Stand: 27.9.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
+
+Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Quellenangabe: ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
+
+## Wirtschaftskraft
+
+- [BIP, Anteil an Deutschland](https://faktenmonitor.github.io/wirtschaftskraft/bip-anteil-an-deutschland.html): AK VGR der Länder, 2019-2025
+- [BIP je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bip-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BIP je Erwerbstätigen; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bip-je-erwerbstaetigen-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BIP je Arbeitsstunde; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bip-je-arbeitsstunde-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Kapitalproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/kapitalproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Totale Faktorproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/totale-faktorproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [BWS je Erwerbstätigen, Baugewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-baugewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BWS je Erwerbstätigen, Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-verarbeitendes-gewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BWS je Arbeitsstunde Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-arbeitsstunde-verarbeitendes-gewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BWS je Erwerbstätigen, Handel/Gastgewerbe/Verkehr; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-handel-gastgewerbe-verkehr-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [BWS je Erwerbstätigen, Grundstückswesen, Finanzen, Unternehmensdienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-grundstueckswesen-finanzen-unternehmensdienstle.html): AK VGR der Länder, 2019-2025
+- [BWS je Erwerbstätigen, Öffentliche und Sonstige Dienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-oeffentliche-und-sonstige-dienstleister-westdeu.html): AK VGR der Länder, 2019-2025
+- [BWS je Erwerbstätigen nach Sektoren; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-nach-sektoren-westdeutschland-100.html): AK VGR der Länder, 2025
+- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-arbeitsstunde.html): AK VGR der Länder, 2023
+- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+
+## Wirtschaftswachstum
+
+- [BIP, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bip-real-veraenderungsrate-in-prozent.html): AK VGR der Länder, 2019-2025
+- [BIP je Einwohner, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bip-je-einwohner-real-veraenderungsrate-in-prozent.html): AK VGR der Länder, 2019-2025
+- [BIP je Erwerbstätigen, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bip-je-erwerbstaetigen-real-veraenderungsrate-in-prozent.html): AK VGR der Länder, 2019-2025
+- [BIP je Arbeitsstunde, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bip-je-arbeitsstunde-real-veraenderungsrate-in-prozent.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung im Verarb. Gewerbe, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bruttowertschoepfung-im-verarb-gewerbe-real-veraenderungsrate-in-proze.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigenstunde Verarbeitendes Gewerbe, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/bruttowertschoepfung-je-erwerbstaetigenstunde-verarbeitendes-gewerbe-r.html): AK VGR der Länder, 2019-2025
+- [Kapitalproduktivität, real; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/kapitalproduktivitaet-real-veraenderungsrate-in-prozent.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Totale Faktorproduktivität; Veränderungsrate in %](https://faktenmonitor.github.io/wirtschaftswachstum/totale-faktorproduktivitaet-veraenderungsrate-in-prozent.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Veränderungsrate Produktionspotential in %](https://faktenmonitor.github.io/wirtschaftswachstum/veraenderungsrate-produktionspotential-in-prozent.html): Schätzung des ifo Instituts, 2019-2023
+- [Veränderungsrate Produktionspotential je Einwohner in %](https://faktenmonitor.github.io/wirtschaftswachstum/veraenderungsrate-produktionspotential-je-einwohner-in-prozent.html): Schätzung des ifo Instituts, 2019-2023
+
+## Wirtschaftsstruktur
+
+- [Anteil an Erwerbstätigen: Verarbeitendes Gewerbe](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-verarbeitendes-gewerbe.html): AK VGR der Länder, 2019-2025
+- [Anteil an Erwerbstätigen: Baugewerbe](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-baugewerbe.html): AK VGR der Länder, 2019-2025
+- [Anteil an Erwerbstätigen: Handel/Gastgewerbe/Verkehr](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-handel-gastgewerbe-verkehr.html): AK VGR der Länder, 2019-2025
+- [Anteil an Erwerbstätigen: Versicherungs- und Kreditgewerbe/Grundstücks- und Wohnungswesen/Unternehmensdienstleister](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-versicherungs-und-kreditgewerbe-grundstuecks.html): AK VGR der Länder, 2019-2025
+- [Anteil an Erwerbstätigen: Öffentliche und Sonstige Dienstleister, Gesundheitswesen, Erziehung und Unterricht](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-oeffentliche-und-sonstige-dienstleister-gesu.html): AK VGR der Länder, 2019-2025
+- [Anteil an Erwerbstätigen: Staatliche Sektoren (Öffentliche Dienstleister, Gesundheitswesen, Erziehung/Unterricht)](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-erwerbstaetigen-staatliche-sektoren-oeffentliche-dienstleist.html): AK VGR der Länder, 2019-2024
+- [Anteile der Sektoren an den Erwerbstätigen im Überblick](https://faktenmonitor.github.io/wirtschaftsstruktur/anteile-der-sektoren-an-den-erwerbstaetigen-im-ueberblick.html): AK VGR der Länder, 2025
+- [Anteil an Bruttowertschöpfung: Verarbeitendes Gewerbe](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-bruttowertschoepfung-verarbeitendes-gewerbe.html): AK VGR der Länder, 2019-2025
+- [Anteil an Bruttowertschöpfung: Baugewerbe](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-bruttowertschoepfung-baugewerbe.html): AK VGR der Länder, 2019-2025
+- [Anteil an Bruttowertschöpfung: Handel/Gastgewerbe/Verkehr](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-bruttowertschoepfung-handel-gastgewerbe-verkehr.html): AK VGR der Länder, 2019-2025
+- [Anteil an Bruttowertschöpfung: Versicherungs- und Kreditgewerbe/Grundstücks- und Wohnungswesen/Unternehmensdienstleister](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-bruttowertschoepfung-versicherungs-und-kreditgewerbe-grundst.html): AK VGR der Länder, 2019-2025
+- [Anteil an Bruttowertschöpfung: Öffentliche und Sonstige Dienstleister, Gesundheitswesen, Erziehung und Unterricht](https://faktenmonitor.github.io/wirtschaftsstruktur/anteil-an-bruttowertschoepfung-oeffentliche-und-sonstige-dienstleister.html): AK VGR der Länder, 2019-2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: alle Wirtschaftsbereiche, unsortiert](https://faktenmonitor.github.io/wirtschaftsstruktur/branchenstruktur-der-sv-pflichtigen-beschaeftigten-alle-wirtschaftsber.html): Bundesagentur für Arbeit, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: alle Wirtschaftsbereiche, sortiert](https://faktenmonitor.github.io/wirtschaftsstruktur/branchenstruktur-der-sv-pflichtigen-beschaeftigten-alle-wirtschaftsber-2.html): Bundesagentur für Arbeit, 2025
+- [Veränderung der Erwerbstätigkeit in den Sektoren 2019-2025 in %](https://faktenmonitor.github.io/wirtschaftsstruktur/veraenderung-der-erwerbstaetigkeit-in-den-sektoren-2019-2025-in-prozen.html): AK VGR der Länder, 2019-2025
+- [Erwerbstätige marktbestimmte Dienstleistungen, ø-Veränderung 2019-2024 in %](https://faktenmonitor.github.io/wirtschaftsstruktur/erwerbstaetige-marktbestimmte-dienstleistungen-veraenderung-2019-2024.html): AK VGR der Länder, 2019-2024
+- [Erwerbstätige öffentliche Dienstleistungen, ø-Veränderung 2019-2024 in %](https://faktenmonitor.github.io/wirtschaftsstruktur/erwerbstaetige-oeffentliche-dienstleistungen-veraenderung-2019-2024-in.html): AK VGR der Länder, 2019-2024
+
+## Strukturdaten zu SV-pflichtigen Beschäftigten (SVB)/Erwerbstätigen
+
+- [SVB mit akademischem Abschluss (Anteil an den SVB insgesamt)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/svb-mit-akademischem-abschluss-anteil-an-den-svb-insgesamt.html): Bundesagentur für Arbeit, 2019-2025
+- [SVB mit beruflichem Abschluss (Anteil an den SVB insgesamt)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/svb-mit-beruflichem-abschluss-anteil-an-den-svb-insgesamt.html): Bundesagentur für Arbeit, 2019-2025
+- [SVB ohne Abschluss (Anteil an den SVB insgesamt)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/svb-ohne-abschluss-anteil-an-den-svb-insgesamt.html): Bundesagentur für Arbeit, 2019-2025
+- [SVB in MINT-orientierten Wirtschaftsbereichen (Anteil an den SVB insgesamt)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/svb-in-mint-orientierten-wirtschaftsbereichen-anteil-an-den-svb-insges.html): BBSR, 2019-2023
+- [Beschäftigungsquote Ausländer (Anteil an Ausländern im erwerbsfähigen Alter)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/beschaeftigungsquote-auslaender-anteil-an-auslaendern-im-erwerbsfaehig.html): BBSR, 2019-2023
+- [Anteil ausländische Beschäftigte an allen Beschäftigten](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/anteil-auslaendische-beschaeftigte-an-allen-beschaeftigten.html): Bundesagentur für Arbeit, 2019-2025
+- [Anteil Teilzeitbeschäftigte an allen Beschäftigten](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/anteil-teilzeitbeschaeftigte-an-allen-beschaeftigten.html): Bundesagentur für Arbeit, 2019-2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: alle Wirtschaftsbereiche, unsortiert](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/branchenstruktur-der-sv-pflichtigen-beschaeftigten-alle-wirtschaftsber.html): Bundesagentur für Arbeit, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: Verarbeitendes Gewerbe, unsortiert](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/branchenstruktur-der-sv-pflichtigen-beschaeftigten-verarbeitendes-gewe.html): Bundesagentur für Arbeit, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: alle Wirtschaftsbereiche, sortiert](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/branchenstruktur-der-sv-pflichtigen-beschaeftigten-alle-wirtschaftsber-2.html): Bundesagentur für Arbeit, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: Verarbeitendes Gewerbe, sortiert](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/branchenstruktur-der-sv-pflichtigen-beschaeftigten-verarbeitendes-gewe-2.html): Bundesagentur für Arbeit, 2025
+- [Altersstruktur der Erwerbstätigen (Wohnort)](https://faktenmonitor.github.io/strukturdaten-zu-sv-pflichtigen-beschaeftigten-svb-erwerbstaetigen/altersstruktur-der-erwerbstaetigen-wohnort.html): Statistisches Bundesamt, 2025
+
+## Sektoraler Strukturwandel
+
+- [Veränderung der Beschäftigten nach Sektoren 2019-2025, absolut](https://faktenmonitor.github.io/sektoraler-strukturwandel/veraenderung-der-beschaeftigten-nach-sektoren-2019-2025-absolut.html): Bundesagentur für Arbeit, 2019-2025
+- [Veränderung der Beschäftigten nach Sektoren 2019-2025, in %](https://faktenmonitor.github.io/sektoraler-strukturwandel/veraenderung-der-beschaeftigten-nach-sektoren-2019-2025-in-prozent.html): Bundesagentur für Arbeit, 2019-2025
+- [Veränderung der Beschäftigten, Verarbeitendes Gewerbe TOP 5](https://faktenmonitor.github.io/sektoraler-strukturwandel/veraenderung-der-beschaeftigten-verarbeitendes-gewerbe-top-5.html): Bundesagentur für Arbeit, 2019-2025
+- [Veränderung der Beschäftigten, marktbestimmte Dienstleistungen TOP 5](https://faktenmonitor.github.io/sektoraler-strukturwandel/veraenderung-der-beschaeftigten-marktbestimmte-dienstleistungen-top-5.html): Bundesagentur für Arbeit, 2019-2025
+- [Veränderung der Beschäftigten, öffentliche Dienstleistungen TOP 5](https://faktenmonitor.github.io/sektoraler-strukturwandel/veraenderung-der-beschaeftigten-oeffentliche-dienstleistungen-top-5.html): Bundesagentur für Arbeit, 2019-2025
+
+## Investitionen, Kapitalstock
+
+- [Bruttoanlageinvestitionen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen je Erwerbstätigen; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-westdeutschland-100.html): AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen in % des BIP](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-in-prozent-des-bip.html): AK VGR der Länder, 2019-2023
+- [Kapitalstock je Erwerbstätigen (Kapitalintensität); Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/kapitalstock-je-erwerbstaetigen-kapitalintensitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Modernitätsgrad des Kapitalstocks](https://faktenmonitor.github.io/investitionen-kapitalstock/modernitaetsgrad-des-kapitalstocks.html): AK VGR der Länder, 2019-2023
+- [Kapitalproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/kapitalproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen je Einwohner, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-unternehmenssektor-westdeutschl.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen je Erwerbstätigen, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-unternehmenssektor-westde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Bauinvestitionen des Staates je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bauinvestitionen-des-staates-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
+- [Ausländische Direktinvestitionen im Inland, Bestand je Einwohner](https://faktenmonitor.github.io/investitionen-kapitalstock/auslaendische-direktinvestitionen-im-inland-bestand-je-einwohner.html): Deutsche Bundesbank, 2021-2024
+- [Direktinvestitionen im Ausland, Bestand je Einwohner](https://faktenmonitor.github.io/investitionen-kapitalstock/direktinvestitionen-im-ausland-bestand-je-einwohner.html): Deutsche Bundesbank, 2021-2024
+- [Ausländische Direktinvestitionen im Inland nach ausgewählten Herkunftsländern](https://faktenmonitor.github.io/investitionen-kapitalstock/auslaendische-direktinvestitionen-im-inland-nach-ausgewaehlten-herkunf.html): Deutsche Bundesbank, 2021-2024
+
+## Arbeitsangebot
+
+- [Erwerbsbeteiligungsquote in %](https://faktenmonitor.github.io/arbeitsangebot/erwerbsbeteiligungsquote-in-prozent.html): Statistisches Bundesamt, 2020-2024
+- [Erwerbspersonen am Wohnort; Veränderungsrate in %](https://faktenmonitor.github.io/arbeitsangebot/erwerbspersonen-am-wohnort-veraenderungsrate-in-prozent.html): eigene Berechnung auf Basis Grunddaten ETR der Länder, 2019-2024
+
+## Arbeitsnachfrage
+
+- [Erwerbstätige (Inland), Anteil an Deutschland](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-inland-anteil-an-deutschland.html): AK VGR der Länder, 2019-2025
+- [Erwerbstätigenquote (Wohnort) in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetigenquote-wohnort-in-prozent.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2024
+- [Erwerbstätige (Arbeitsort) je 100 erwerbsfähige Einwohner (Wohnort)](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-arbeitsort-je-100-erwerbsfaehige-einwohner-wohnort.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder/Statistisches Bundesamt, 2019-2025
+- [Erwerbstätige (Arbeitsort), Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-arbeitsort-veraenderung-in-prozent.html): AK VGR der Länder, 2019-2025
+- [Arbeitsvolumen, Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsvolumen-veraenderung-in-prozent.html): AK VGR der Länder, 2019-2025
+- [Arbeitsstunden pro Jahr](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsstunden-pro-jahr.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+- [Pendlersaldo je 100 Erwerbstätige](https://faktenmonitor.github.io/arbeitsnachfrage/pendlersaldo-je-100-erwerbstaetige.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder, 2019-2024
+- [Auspendler in % der Beschäftigten am Wohnort](https://faktenmonitor.github.io/arbeitsnachfrage/auspendler-in-prozent-der-beschaeftigten-am-wohnort.html): Bundesagentur für Arbeit, 2019-2025
+- [Einpendler in % der Beschäftigten am Arbeitsort](https://faktenmonitor.github.io/arbeitsnachfrage/einpendler-in-prozent-der-beschaeftigten-am-arbeitsort.html): Bundesagentur für Arbeit, 2019-2025
+
+## Arbeitslosigkeit
+
+- [Arbeitslosenquote in %](https://faktenmonitor.github.io/arbeitslosigkeit/arbeitslosenquote-in-prozent.html): Bundesagentur für Arbeit, 2019-2025
+- [Zahl der Arbeitslosen; Veränderung in %](https://faktenmonitor.github.io/arbeitslosigkeit/zahl-der-arbeitslosen-veraenderung-in-prozent.html): Bundesagentur für Arbeit, 2019-2025
+- [Binnendifferenzierung Arbeitslosenquote](https://faktenmonitor.github.io/arbeitslosigkeit/binnendifferenzierung-arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
+
+## Löhne
+
+- [Löhne je Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/loehne/loehne-je-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Löhne je Stunde; Westdeutschland=100](https://faktenmonitor.github.io/loehne/loehne-je-stunde-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Medianlöhne; Westdeutschland=100](https://faktenmonitor.github.io/loehne/medianloehne-westdeutschland-100.html): Statistisches Bundesamt, 2019-2025
+- [Stundenlöhne; Veränderung in %](https://faktenmonitor.github.io/loehne/stundenloehne-veraenderung-in-prozent.html): AK VGR der Länder, 2019-2025
+- [Reallöhne pro Stunde; Westdeutschland=100](https://faktenmonitor.github.io/loehne/realloehne-pro-stunde-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2019-2025
+- [Veränderung Reallöhne je Stunde](https://faktenmonitor.github.io/loehne/veraenderung-realloehne-je-stunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2019-2025
+- [Löhne je Arbeitsstunde, Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/loehne/loehne-je-arbeitsstunde-verarbeitendes-gewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Tarifbindung in % der Arbeitnehmer/der Betriebe](https://faktenmonitor.github.io/loehne/tarifbindung-in-prozent-der-arbeitnehmer-der-betriebe.html): Statistisches Bundesamt, 2022-2025
+- [Inflationsrate (Lebenhaltungspreise)](https://faktenmonitor.github.io/loehne/inflationsrate-lebenhaltungspreise.html): Statistisches Bundesamt, 2019-2025
+- [Arbeitseinkommensquote in % des Volkseinkommens](https://faktenmonitor.github.io/loehne/arbeitseinkommensquote-in-prozent-des-volkseinkommens.html): AK VGR der Länder, 2019-2024
+
+## Lohnstückkosten
+
+- [Gesamtwirtschaft, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Gesamtwirtschaft, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Verarbeitendes Gewerbe, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Verarbeitendes Gewerbe, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Veränderung, Gesamtwirtschaft, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
+- [Veränderung, Gesamtwirtschaft, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
+- [Veränderung,Verarbeitendes Gewerbe, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
+- [Veränderung, Verarbeitendes Gewerbe, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
+
+## Einkommen
+
+- [Verfügbare Einkommen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/verfuegbare-einkommen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Kaufkraft je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/kaufkraft-je-einwohner-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2019-2024
+- [Lebenshaltungspreise; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/lebenshaltungspreise-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten BBSR, 2020-2025
+- [Primäreinkommen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/primaereinkommen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Nettosteuerquote in %](https://faktenmonitor.github.io/einkommen/nettosteuerquote-in-prozent.html): AK VGR der Länder, 2019-2024
+- [Transferabhängigkeit in % der Binnennachfrage](https://faktenmonitor.github.io/einkommen/transferabhaengigkeit-in-prozent-der-binnennachfrage.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-verfuegbare-einkommen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-kaufkraft-je-einwohner.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2023
+- [Inflationsrate (Lebenhaltungspreise)](https://faktenmonitor.github.io/einkommen/inflationsrate-lebenhaltungspreise.html): Statistisches Bundesamt, 2020-2025
+- [Private Konsumausgaben je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/private-konsumausgaben-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+
+## Einkommensverteilung
+
+- [Medianlöhne pro Monat; Westdeutschland=100](https://faktenmonitor.github.io/einkommensverteilung/medianloehne-pro-monat-westdeutschland-100.html): Bundesagentur für Arbeit, 2019-2025
+- [Lohnverteilung](https://faktenmonitor.github.io/einkommensverteilung/lohnverteilung.html): Bundesagentur für Arbeit, 2025
+- [Armutsgefährdungsquote (Landesmedian)](https://faktenmonitor.github.io/einkommensverteilung/armutsgefaehrdungsquote-landesmedian.html): Statistisches Bundesamt, 2020-2025
+- [Armutsgefährdungsquote (Bundesmedian)](https://faktenmonitor.github.io/einkommensverteilung/armutsgefaehrdungsquote-bundesmedian.html): Statistisches Bundesamt, 2025
+- [Gini-Koeffizient Einkommensverteilung](https://faktenmonitor.github.io/einkommensverteilung/gini-koeffizient-einkommensverteilung.html): Statistisches Bundesamt, 2019-2025
+- [Unbereinigter Gender Pay Gap](https://faktenmonitor.github.io/einkommensverteilung/unbereinigter-gender-pay-gap.html): Statistisches Bundesamt, 2019-2025
+- [Renten je Rentner (Männer/Frauen/insgesamt); Westdeutschland=100](https://faktenmonitor.github.io/einkommensverteilung/renten-je-rentner-maenner-frauen-insgesamt-westdeutschland-100.html): Deutsche Rentenversicherung Bund, 2019-2025
+- [Renten in % der durchschnittlichen Lohneinkommen je Arbeitnehmer](https://faktenmonitor.github.io/einkommensverteilung/renten-in-prozent-der-durchschnittlichen-lohneinkommen-je-arbeitnehmer.html): Deutsche Rentenversicherung Bund, Statistisches Bundesamt, 2019-2025
+- [Altersrenten Frauen in % der Altersrenten Männer (gender pensions gap)](https://faktenmonitor.github.io/einkommensverteilung/altersrenten-frauen-in-prozent-der-altersrenten-maenner-gender-pension.html): Deutsche Rentenversicherung Bund, 2019-2025
+- [Alterseinkünfte von Rentnerhaushalten insg.; Westdeutschland=100](https://faktenmonitor.github.io/einkommensverteilung/alterseinkuenfte-von-rentnerhaushalten-insg-westdeutschland-100.html): Alterssicherungsbericht der Bundesregierung, 2023
+- [Arbeitseinkommensquote in % des Volkseinkommens](https://faktenmonitor.github.io/einkommensverteilung/arbeitseinkommensquote-in-prozent-des-volkseinkommens.html): AK VGR der Länder, 2019-2024
+
+## Vermögen der privaten Haushalte
+
+- [Vermögen je Haushalt; Westdeutschland=100](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/vermoegen-je-haushalt-westdeutschland-100.html): Deutsche Bundesbank, 2014-2023
+- [Vermögenseinkommen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/vermoegenseinkommen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Sparquote in % der verfügbaren Einkommen](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/sparquote-in-prozent-der-verfuegbaren-einkommen.html): AK VGR der Länder, 2019-2024
+- [Art der Wohnungsnutzung in % der Haushalte](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/art-der-wohnungsnutzung-in-prozent-der-haushalte.html): Statistisches Bundesamt, 2022
+- [Aufkommen an Erbschaftsteuer je Todesfall; Westdeutschland=100](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/aufkommen-an-erbschaftsteuer-je-todesfall-westdeutschland-100.html): Statistisches Bundesamt, 2019-2025
+- [Aufkommen an Abgeltungssteuer je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/vermoegen-der-privaten-haushalte/aufkommen-an-abgeltungssteuer-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2019-2025
+
+## Selbständige
+
+- [Selbständige je 1.000 Erwerbstätige](https://faktenmonitor.github.io/selbstaendige/selbstaendige-je-1-000-erwerbstaetige.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+- [Selbständige je 1.000 Einwohner](https://faktenmonitor.github.io/selbstaendige/selbstaendige-je-1-000-einwohner.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+- [Selbständige je 1.000 erwerbsfähige Einwohner](https://faktenmonitor.github.io/selbstaendige/selbstaendige-je-1-000-erwerbsfaehige-einwohner.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/Statistisches Bundesamt, 2019-2025
+- [Selbständigeneinkommen; Westdeutschland=100](https://faktenmonitor.github.io/selbstaendige/selbstaendigeneinkommen-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Selbständige 55-64 Jahre](https://faktenmonitor.github.io/selbstaendige/selbstaendige-55-64-jahre.html): Statistisches Bundesamt, 2025
+
+## Industriedaten
+
+- [Betriebsgrößen (Beschäftigungsstatistik): Anteil der Betriebe/der Beschäftigten](https://faktenmonitor.github.io/industriedaten/betriebsgroessen-beschaeftigungsstatistik-anteil-der-betriebe-der-besc.html): Bundesagentur für Arbeit, 2025
+- [durchschnittliche Unternehmensgröße (Unternehmensregister)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-unternehmensgroesse-unternehmensregister.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Betriebsgröße (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-industriestatistik.html): Statistisches Bundesamt, 2019-2025
+- [Umsatz je Betrieb (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/umsatz-je-betrieb-industriestatistik.html): Statistisches Bundesamt, 2019-2025
+- [durchschnittliche Betriebsgröße (Beschäftigtenstatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-beschaeftigtenstatistik.html): Bundesagentur für Arbeit, 2025
+- [Umsatzproduktivität (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/umsatzproduktivitaet-industriestatistik.html): Statistisches Bundesamt, 2019-2025
+- [Umsatzproduktivität nach Branchen (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/umsatzproduktivitaet-nach-branchen-industriestatistik.html): Statistisches Bundesamt, 2025
+- [Exportquote (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/exportquote-industriestatistik.html): Statistisches Bundesamt, 2025
+- [Branchenstruktur, Basis Umsätze (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/branchenstruktur-basis-umsaetze-industriestatistik.html): Statistisches Bundesamt, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten im Verarbeitenden Gewerbe](https://faktenmonitor.github.io/industriedaten/branchenstruktur-der-sv-pflichtigen-beschaeftigten-im-verarbeitenden-g.html): Bundesagentur für Arbeit, 2025
+- [darunter: Diversifikationsgrad der Beschäftigtenstruktur im Verarbeitenden Gewerbe](https://faktenmonitor.github.io/industriedaten/darunter-diversifikationsgrad-der-beschaeftigtenstruktur-im-verarbeite.html): Bundesagentur für Arbeit, 2025
+- [Branchenstruktur der SV-pflichtigen Beschäftigten: Verarbeitendes Gewerbe, sortiert](https://faktenmonitor.github.io/industriedaten/branchenstruktur-der-sv-pflichtigen-beschaeftigten-verarbeitendes-gewe.html): Bundesagentur für Arbeit, 2025
+- [Anteil energieintensiver Industriezweige an Umsatz/an Beschäftigten](https://faktenmonitor.github.io/industriedaten/anteil-energieintensiver-industriezweige-an-umsatz-an-beschaeftigten.html): Statistisches Bundesamt, 2025
+- [BWS je Erwerbstätigenstunde Verarbeitendes Gewerbe (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/bws-je-erwerbstaetigenstunde-verarbeitendes-gewerbe-vgr-westdeutschlan.html): AK VGR der Länder, 2019-2025
+- [Veränderungsrate BWS im Verarb. Gewerbe, real (VGR)](https://faktenmonitor.github.io/industriedaten/veraenderungsrate-bws-im-verarb-gewerbe-real-vgr.html): AK VGR der Länder, 2019-2025
+- [Löhne je Arbeitsstunde, Verarbeitendes Gewerbe (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/loehne-je-arbeitsstunde-verarbeitendes-gewerbe-vgr-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten Verarbeitendes Gewerbe, Basis Arbeitnehmer (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/lohnstueckkosten-verarbeitendes-gewerbe-basis-arbeitnehmer-vgr-westdeu.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+- [Lohnstückkosten Verarbeitendes Gewerbe, Basis Arbeitsstunden (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/lohnstueckkosten-verarbeitendes-gewerbe-basis-arbeitsstunden-vgr-westd.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+
+## Unternehmen und Betriebe
+
+- [Zahl der Unternehmen insg., 2019=100](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-der-unternehmen-insg-2019-100.html): Statistisches Bundesamt, 2019-2024
+- [Zahl der Unternehmen im Verarbeitenden Gewerbe, 2019=100](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-der-unternehmen-im-verarbeitenden-gewerbe-2019-100.html): Statistisches Bundesamt, 2019-2024
+- [Schnell wachsende Unternehmen in % aller Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/schnell-wachsende-unternehmen-in-prozent-aller-unternehmen.html): Eurostat, 2021-2023
+- [Zahl der Unternehmen je Einwohner im erwerbsfähigen Alter](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-der-unternehmen-je-einwohner-im-erwerbsfaehigen-alter.html): Statistisches Bundesamt, 2019-2024
+- [Unternehmensgrößenstruktur (in % aller Unternehmen)](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgroessenstruktur-in-prozent-aller-unternehmen.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße (alle Wirtschaftsbereiche ohne Staat)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-alle-wirtschaftsbereiche-ohne-st.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße (Verarbeitendes Gewerbe)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe.html): Statistisches Bundesamt, 2019-2024
+- [Unternehmensgründungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgruendungen-je-1-000-einwohner-je-100-unternehmen-einschli.html): Statistisches Bundesamt, 2019-2024/25
+- [Unternehmensschließungen je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensschliessungen-je-100-unternehmen-einschliesslich-nebengewe.html): Statistisches Bundesamt, 2019-2024
+- [Saldo der Unternehmensgründungen/-schließungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/saldo-der-unternehmensgruendungen-schliessungen-je-1-000-einwohner-je.html): Statistisches Bundesamt, 2019-2024/25
+- [Unternehmensgründungen je 1.000 Einwohner/je 100 Unternehmen, ohne Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgruendungen-je-1-000-einwohner-je-100-unternehmen-ohne-neb.html): Statistisches Bundesamt, 2019-2024/25
+- [Unternehmensschließungen je 100 Unternehmen, ohne Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensschliessungen-je-100-unternehmen-ohne-nebengewerbe-zweigni.html): Statistisches Bundesamt, 2019-2024
+- [Saldo der Unternehmensgründungen/-schließungen je 1.000 Einwohner/je 100 Unternehmen, ohne Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/saldo-der-unternehmensgruendungen-schliessungen-je-1-000-einwohner-je-2.html): Statistisches Bundesamt, 2019-2024/25
+- [start-up-Neugründungen je 100.000 Einwohner/in% aller Unternehmensneugründungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/start-up-neugruendungen-je-100-000-einwohner-in-prozent-aller-unterneh.html): Startup-Verband; Statistisches Bundesamt, 2023-2025/24
+- [Zahl bestehender Start-ups je 100.000 Einwohner](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-bestehender-start-ups-je-100-000-einwohner.html): Startup-Verband, 2023-2025
+- [übergabereife Unternehmen (Unternehmensnachfolge) je 1.000 Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/uebergabereife-unternehmen-unternehmensnachfolge-je-1-000-unternehmen.html): Institut für Mittelstandsforschung, 2022-2026/2026-2030
+- [Selbständige 55-64 Jahre in Relation Selbständigen insgesamt](https://faktenmonitor.github.io/unternehmen-und-betriebe/selbstaendige-55-64-jahre-in-relation-selbstaendigen-insgesamt.html): Statistisches Bundesamt, 2025
+- [Betriebsgrößen (Beschäftigungsstatistik), Gesamtwirtschaft: Anteil an Betrieben/Beschäftigten](https://faktenmonitor.github.io/unternehmen-und-betriebe/betriebsgroessen-beschaeftigungsstatistik-gesamtwirtschaft-anteil-an-b.html): Bundesagentur für Arbeit, 2025
+- [Betriebsgrößen (Beschäftigungsstatistik), Verarbeitendes Gewerbe: Anteil an Betrieben/Beschäftigten](https://faktenmonitor.github.io/unternehmen-und-betriebe/betriebsgroessen-beschaeftigungsstatistik-verarbeitendes-gewerbe-antei.html): Bundesagentur für Arbeit, 2025
+- [durchschnittliche Betriebsgröße (Beschäftigtenstatistik): Gesamtwirtschaft](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-betriebsgroesse-beschaeftigtenstatistik-gesamtwirtsc.html): Bundesagentur für Arbeit, 2025
+- [durchschnittliche Betriebsgröße (Beschäftigtenstatistik): Verarbeitendes Gewerbe](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-betriebsgroesse-beschaeftigtenstatistik-verarbeitend.html): Bundesagentur für Arbeit, 2025
+
+## Außenhandel
+
+- [Warenausfuhr in % des BIP](https://faktenmonitor.github.io/aussenhandel/warenausfuhr-in-prozent-des-bip.html): Statistisches Bundesamt, 2023-2025
+- [wichtigste Exportländer](https://faktenmonitor.github.io/aussenhandel/wichtigste-exportlaender.html): Statistisches Bundesamt, 2025
+- [Anteil Russlands an den Exporten](https://faktenmonitor.github.io/aussenhandel/anteil-russlands-an-den-exporten.html): Statistisches Bundesamt, 2025
+- [wichtigste Exportgüter](https://faktenmonitor.github.io/aussenhandel/wichtigste-exportgueter.html): Statistisches Bundesamt, 2025
+- [Leistungsbilanzsaldo in % des BIP](https://faktenmonitor.github.io/aussenhandel/leistungsbilanzsaldo-in-prozent-des-bip.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
+- [Exportquote (Industriestatistik) in % des Umsatzes](https://faktenmonitor.github.io/aussenhandel/exportquote-industriestatistik-in-prozent-des-umsatzes.html): Statistisches Bundesamt, 2019-2025
+
+## FuE/Innovation
+
+- [FuE-Aufwendungen insg. in % des BIP](https://faktenmonitor.github.io/fue-innovation/fue-aufwendungen-insg-in-prozent-des-bip.html): Stifterverband/Statistisches Bundesamt, 2019-2024
+- [FuE-Aufwendungen Wirtschaftssektor in % des BIP](https://faktenmonitor.github.io/fue-innovation/fue-aufwendungen-wirtschaftssektor-in-prozent-des-bip.html): Stifterverband/Statistisches Bundesamt, 2019-2024
+- [interne FuE-Aufwendungen der Wirtschaft nach Sektoren, in %](https://faktenmonitor.github.io/fue-innovation/interne-fue-aufwendungen-der-wirtschaft-nach-sektoren-in-prozent.html): Stifterverband, 2023
+- [FuE-Personal, insg., je 1.000 Einwohner](https://faktenmonitor.github.io/fue-innovation/fue-personal-insg-je-1-000-einwohner.html): Stifterverband/Statistisches Bundesamt, 2019-2024
+- [FuE-Personal, Wirtschaftssektor; je 1.000 Einwohner](https://faktenmonitor.github.io/fue-innovation/fue-personal-wirtschaftssektor-je-1-000-einwohner.html): Stifterverband/Statistisches Bundesamt, 2019-2024
+- [FuE-Personal, Hochschulen; je 1.000 Einwohner](https://faktenmonitor.github.io/fue-innovation/fue-personal-hochschulen-je-1-000-einwohner.html): Stifterverband/Statistisches Bundesamt, 2019-2024
+- [Patentanmeldungen insg. je 1 Mio. Einwohner](https://faktenmonitor.github.io/fue-innovation/patentanmeldungen-insg-je-1-mio-einwohner.html): DPMA, 2019-2025
+- [Patentanmeldungen Hochschulen je 1 Mio. Einwohner](https://faktenmonitor.github.io/fue-innovation/patentanmeldungen-hochschulen-je-1-mio-einwohner.html): DPMA, 2019-2025
+- [Patentanmeldungen insg. je 1.000 FuE-Beschäftigte](https://faktenmonitor.github.io/fue-innovation/patentanmeldungen-insg-je-1-000-fue-beschaeftigte.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2024
+- [Patentanmeldungen Hochschulen je 1.000 FuE-Beschäftigte](https://faktenmonitor.github.io/fue-innovation/patentanmeldungen-hochschulen-je-1-000-fue-beschaeftigte.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2024
+- [Innovationsindikator des Statistischen Landesamtes Baden-Württemberg](https://faktenmonitor.github.io/fue-innovation/innovationsindikator-des-statistischen-landesamtes-baden-wuerttemberg.html): Statistisches Landesamt Baden-Württemberg, 2018-2024 (zweijährig)
+
+## Hochschulen/Forschungseinrichtungen
+
+- [Zahl der Hochschulen (absolut und je 1 Mio. Einwohner)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/zahl-der-hochschulen-absolut-und-je-1-mio-einwohner.html): BMBF (BMFTR), 2024/25
+- [Zahl der Forschungseinrichtungen (absolut und je 1 Mio. Einwohner)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/zahl-der-forschungseinrichtungen-absolut-und-je-1-mio-einwohner.html): BMBF (BMFTR), 2024/25
+- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2024
+- [Studierende MINT-Fächer in % aller Studierenden](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/studierende-mint-faecher-in-prozent-aller-studierenden.html): Statistisches Bundesamt, 2019-2025
+- [Ausländische Studierende in % aller Studierenden](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/auslaendische-studierende-in-prozent-aller-studierenden.html): Statistisches Bundesamt, 2019-2025
+- [Ausländische Studierende in MINT-Fächern in % aller Studierenden in MINT-Fächern](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/auslaendische-studierende-in-mint-faechern-in-prozent-aller-studierend.html): Statistisches Bundesamt, 2019-2025
+- [Anteil MINT-Fächer an Prüfungen](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/anteil-mint-faecher-an-pruefungen.html): Statistisches Bundesamt, 2019-2024
+- [Ausgaben der Hochschulen je 1.000 Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/ausgaben-der-hochschulen-je-1-000-einwohner.html): Statistisches Bundesamt, 2024
+- [Ausgaben der Hochschulen in % des BIP](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/ausgaben-der-hochschulen-in-prozent-des-bip.html): Statistisches Bundesamt, 2024
+- [Drittmitteleinnahmen der Hochschulen je wiss. Personal, Westdeutschland=100](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/drittmitteleinnahmen-der-hochschulen-je-wiss-personal-westdeutschland.html): Statistisches Bundesamt, 2019-2023
+- [FuE-Personal, Hochschulen, je 1.000 Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/fue-personal-hochschulen-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2024
+- [Patentanmeldungen Hochschulen je 1 Mio. Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/patentanmeldungen-hochschulen-je-1-mio-einwohner.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2025
+- [Patentanmeldungen Hochschulen je 1.000 FuE-Beschäftigte](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/patentanmeldungen-hochschulen-je-1-000-fue-beschaeftigte.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2024
+
+## Bildung
+
+- [Ausgaben für Bildung in % des BIP/je Einwohner (6-24 Jahre)](https://faktenmonitor.github.io/bildung/ausgaben-fuer-bildung-in-prozent-des-bip-je-einwohner-6-24-jahre.html): Statistisches Bundesamt, 2019-2025
+- [Ergebnisse INSM Schulleistungsvergleich, Westdeutschland=100](https://faktenmonitor.github.io/bildung/ergebnisse-insm-schulleistungsvergleich-westdeutschland-100.html): INSM, 2025
+- [Schulabgänger nach erreichtem Abschluss, in % aller Schulabgänger](https://faktenmonitor.github.io/bildung/schulabgaenger-nach-erreichtem-abschluss-in-prozent-aller-schulabgaeng.html): Statistisches Bundesamt, 2018-2024
+- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/bildung/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2024
+
+## Bevölkerung (aktuell)
+
+- [Bevölkerung insg., Anteil an Deutschland](https://faktenmonitor.github.io/bevoelkerung-aktuell/bevoelkerung-insg-anteil-an-deutschland.html): Statistisches Bundesamt, 2019-2025
+- [Bevölkerung insg., 1991=100](https://faktenmonitor.github.io/bevoelkerung-aktuell/bevoelkerung-insg-1991-100.html): Statistisches Bundesamt, 2019-2025
+- [erwerbsfähige Bevölkerung (20-64 Jahre), 1991=100](https://faktenmonitor.github.io/bevoelkerung-aktuell/erwerbsfaehige-bevoelkerung-20-64-jahre-1991-100.html): Statistisches Bundesamt, 2019-2025
+- [Ausländeranteil in % der Bevölkerung](https://faktenmonitor.github.io/bevoelkerung-aktuell/auslaenderanteil-in-prozent-der-bevoelkerung.html): Statistisches Bundesamt, 2019-2025
+- [Anteil Schutzsuchende in % der Bevölkerung](https://faktenmonitor.github.io/bevoelkerung-aktuell/anteil-schutzsuchende-in-prozent-der-bevoelkerung.html): BBSR, 2019-2023
+- [Wanderungssaldo insg.](https://faktenmonitor.github.io/bevoelkerung-aktuell/wanderungssaldo-insg.html): Statistisches Bundesamt, 2019-2025
+- [Wanderungssaldo Inland je 1.000 Einwohner](https://faktenmonitor.github.io/bevoelkerung-aktuell/wanderungssaldo-inland-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2025
+- [Wanderungssaldo Ausland je 1.000 Einwohner](https://faktenmonitor.github.io/bevoelkerung-aktuell/wanderungssaldo-ausland-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2025
+- [Bildungswanderungssaldo (je 1.000 Einwohner der gleichaltrigen Altersgruppe)](https://faktenmonitor.github.io/bevoelkerung-aktuell/bildungswanderungssaldo-je-1-000-einwohner-der-gleichaltrigen-altersgr.html): BBSR, 2019-2023
+- [Berufseinstiegswanderungssaldo (je 1.000 Einwohner der gleichaltrigen Altersgruppe)](https://faktenmonitor.github.io/bevoelkerung-aktuell/berufseinstiegswanderungssaldo-je-1-000-einwohner-der-gleichaltrigen-a.html): BBSR, 2019-2023
+- [Erwerbswanderungssaldo (je 1.000 Einwohner der gleichaltrigen Altersgruppe)](https://faktenmonitor.github.io/bevoelkerung-aktuell/erwerbswanderungssaldo-je-1-000-einwohner-der-gleichaltrigen-altersgru.html): BBSR, 2019-2023
+- [Ruhestandswanderungssaldo (je 1.000 Einwohner der gleichaltrigen Altersgruppe)](https://faktenmonitor.github.io/bevoelkerung-aktuell/ruhestandswanderungssaldo-je-1-000-einwohner-der-gleichaltrigen-alters.html): BBSR, 2019-2023
+- [Saldo der natürlichen Bevölkerungsentwicklung je 1.000 Einwohner](https://faktenmonitor.github.io/bevoelkerung-aktuell/saldo-der-natuerlichen-bevoelkerungsentwicklung-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2025
+- [Geburtenrate](https://faktenmonitor.github.io/bevoelkerung-aktuell/geburtenrate.html): Statistisches Bundesamt, 2019-2025
+- [Lebenserwartung bei Geburt (männlich/weiblich)](https://faktenmonitor.github.io/bevoelkerung-aktuell/lebenserwartung-bei-geburt-maennlich-weiblich.html): Statistisches Bundesamt, 2019-2025
+- [Altersstruktur der Bevölkerung insgesamt in %](https://faktenmonitor.github.io/bevoelkerung-aktuell/altersstruktur-der-bevoelkerung-insgesamt-in-prozent.html): Statistisches Bundesamt, 2025
+- [Altersstruktur der Erwerbstätigen (Wohnort) in %](https://faktenmonitor.github.io/bevoelkerung-aktuell/altersstruktur-der-erwerbstaetigen-wohnort-in-prozent.html): Statistisches Bundesamt, 2025
+- [Durchschnittsalter der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerung-aktuell/durchschnittsalter-der-bevoelkerung-insg.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2019-2025
+- [Ersatzquote](https://faktenmonitor.github.io/bevoelkerung-aktuell/ersatzquote.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2019-2025
+
+## Bevölkerungsprognose
+
+- [Bevölkerung insg., 2025=100](https://faktenmonitor.github.io/bevoelkerungsprognose/bevoelkerung-insg-2025-100.html): Statistisches Bundesamt, 2025-2070
+- [erwerbsfähige Bevölkerung (20-64 Jahre), 2025=100](https://faktenmonitor.github.io/bevoelkerungsprognose/erwerbsfaehige-bevoelkerung-20-64-jahre-2025-100.html): Statistisches Bundesamt, 2025-2070
+- [0-19jährige in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/0-19jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [20-64jährige in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/20-64jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [65 und älter in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/65-und-aelter-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [Durchschnittsalter der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/durchschnittsalter-der-bevoelkerung-insg.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
+- [Ersatzquote](https://faktenmonitor.github.io/bevoelkerungsprognose/ersatzquote.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
+
+## öffentliche Haushalte
+
+- [Personal im öffentlichen Dienst je 1.000 Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/personal-im-oeffentlichen-dienst-je-1-000-einwohner.html): Statistisches Bundesamt, 2024
+- [Anteil öffentliche Dienstleister an allen Erwerbstätigen in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-oeffentliche-dienstleister-an-allen-erwerbstaetigen-in-prozent.html): AK VGR der Länder, 2019-2024
+- [Staatsausgaben insg. je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/staatsausgaben-insg-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2025
+- [Personalausgaben je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/personalausgaben-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2025
+- [Investitionen je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/investitionen-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2025
+- [Anteil Personalausgaben an den öffentlichen Ausgaben insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-personalausgaben-an-den-oeffentlichen-ausgaben-insg-in-prozent.html): Statistisches Bundesamt, 2025
+- [Anteil Investitionsausgaben an den öffentlichen Ausgaben insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-investitionsausgaben-an-den-oeffentlichen-ausgaben-insg-in-proz.html): Statistisches Bundesamt, 2025
+- [Öffentliche Einnahmen je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/oeffentliche-einnahmen-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2025
+- [Steuern je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/steuern-je-einwohner-westdeutschland-100.html): Statistisches Bundesamt, 2025
+- [Anteil Steuern an den öffentlichen Einnahmen insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-steuern-an-den-oeffentlichen-einnahmen-insg-in-prozent.html): Statistisches Bundesamt, 2025
+- [Anteil Zuweisungen an den öffentlichen Einnahmen insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-zuweisungen-an-den-oeffentlichen-einnahmen-insg-in-prozent.html): Statistisches Bundesamt, 2025
+- [Finanzierungssaldo in Euro je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/finanzierungssaldo-in-euro-je-einwohner.html): Statistisches Bundesamt, 2025
+- [Nettokreditaufnahme in Euro je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/nettokreditaufnahme-in-euro-je-einwohner.html)
+- [Finanzierungssaldo in % der öffentlichen Ausgaben insg.](https://faktenmonitor.github.io/oeffentliche-haushalte/finanzierungssaldo-in-prozent-der-oeffentlichen-ausgaben-insg.html): Statistisches Bundesamt, 2025
+- [Staatsquote in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/staatsquote-in-prozent-des-bip.html): eigene Berechnung auf Basis Statistisches Bundesamt/AK VGR der Länder, 2025
+- [Investitionsquote in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/investitionsquote-in-prozent-des-bip.html): eigene Berechnung auf Basis Statistisches Bundesamt/AK VGR der Länder, 2025
+- [originäre Steuerkraft je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/originaere-steuerkraft-je-einwohner-westdeutschland-100.html): eigene Berechnung auf Basis Bundesministerium der Finanzen, 2025
+- [öffentliche Schulden in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/oeffentliche-schulden-in-prozent-des-bip.html): Statistisches Bundesamt, 2019-2025
+- [öffentliche Schulden je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/oeffentliche-schulden-je-einwohner.html): Statistisches Bundesamt, 2019-2025
+- [Bauinvestitionen des Staates je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/bauinvestitionen-des-staates-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
+
+## Energie und Umwelt
+
+- [Energieproduktivität, 2010=100](https://faktenmonitor.github.io/energie-und-umwelt/energieproduktivitaet-2010-100.html): eigene Berechnungen auf Grundlage LAK Energiebilanzen, 2019-2023/24
+- [Primärenergieverbrauch je Einwohner, 2010=100](https://faktenmonitor.github.io/energie-und-umwelt/primaerenergieverbrauch-je-einwohner-2010-100.html): eigene Berechnungen auf Grundlage LAK Energiebilanzen, 2019-2023/24
+- [Energieproduktivität, Westdeutschland=100](https://faktenmonitor.github.io/energie-und-umwelt/energieproduktivitaet-westdeutschland-100.html): eigene Berechnungen auf Grundlage LAK Energiebilanzen, 2019-2023/24
+- [Primärenergieverbrauch je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/energie-und-umwelt/primaerenergieverbrauch-je-einwohner-westdeutschland-100.html): eigene Berechnungen auf Grundlage LAK Energiebilanzen, 2019-2023/24
+- [Anteil Erneuerbarer Energien am Primärenergieverbrauch in %](https://faktenmonitor.github.io/energie-und-umwelt/anteil-erneuerbarer-energien-am-primaerenergieverbrauch-in-prozent.html): eigene Berechnungen auf Grundlage LAK Energiebilanzen, 2019-2023/24
+- [Anteil energieintensiver Industriezweige an Umsatz/an Beschäftigten](https://faktenmonitor.github.io/energie-und-umwelt/anteil-energieintensiver-industriezweige-an-umsatz-an-beschaeftigten.html): Statistisches Bundesamt, 2025
+
+## Sonstiges
+
+- [Stiftungen (Anzahl/je 1 Mio. Einwohner)](https://faktenmonitor.github.io/sonstiges/stiftungen-anzahl-je-1-mio-einwohner.html): Bundesverband deutscher Stiftungen, 2025
+- [Zusammensetzung Landtage](https://faktenmonitor.github.io/sonstiges/zusammensetzung-landtage.html): Landtage der Länder, 2026
+- [Zweitstimmenergebnisse Bundestagswahl 2025](https://faktenmonitor.github.io/sonstiges/zweitstimmenergebnisse-bundestagswahl-2025.html): Bundeswahlleiterin (Statistisches Bundesamt), 2025
+- [Zufriedenheitsindikatoren](https://faktenmonitor.github.io/sonstiges/zufriedenheitsindikatoren.html): BMWE, 2023
+
+## Binnendifferenzierung
+
+- [BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Verfügbare Einkommen, nominal](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Verfügbare Einkommen, real](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Arbeitslosenquote](https://faktenmonitor.github.io/binnendifferenzierung/arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
+
+## EU-Vergleichsdaten
+
+- [BIP je Einwohner in KKS](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-je-einwohner-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
+- [BIP-Wachstum](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-wachstum.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
+- [Veränderung BIP je Einwohner](https://faktenmonitor.github.io/eu-vergleichsdaten/veraenderung-bip-je-einwohner.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
+- [Verfügbare Einkommen in KKS](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Arbeitsproduktivität](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Arbeitslosenquote](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2025
+- [Erwerbstätigkeit](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
+- [Industrialisierungsgrad](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [FuE-Intensität](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Bevölkerungsdynamik 2000-2024](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Beschäftigte in High-Tech-Sektoren](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Humanressourcen in wissensintensiven Berufen/Branchen (HRST)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Beschäftigte mit tertiärer Ausbildung](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Investitionsquote in % des BIP](https://faktenmonitor.github.io/eu-vergleichsdaten/investitionsquote-in-prozent-des-bip.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
+
