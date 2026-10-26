@@ -1,5 +1,7 @@
 # ifo Faktenmonitor Ostdeutschland
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23663010.svg)](https://doi.org/10.5281/zenodo.23663010)
+
 **Website: [https://faktenmonitor.github.io/](https://faktenmonitor.github.io/)**
 
 Der ifo Faktenmonitor stellt rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer bereit und vergleicht Ost- und Westdeutschland, meist für die Jahre ab 2019. Für ausgewählte Indikatoren gibt es Zeitreihen ab dem Jahr 2000 sowie Vergleichsdaten für europäische Regionen (NUTS-1) und die Mitgliedstaaten der EU. Der Faktenmonitor wurde vom ifo Institut, Niederlassung Dresden, auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmals vorgestellt.
@@ -20,6 +22,12 @@ Wirtschaftskraft und Wirtschaftswachstum, Wirtschaftsstruktur und sektoraler Str
 Die Daten und Abbildungen stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de). Sie dürfen frei verwendet, weitergegeben und bearbeitet werden, sofern die Quelle genannt wird:
 
 **ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung**
+
+## Zitieren
+
+Der Datensatz ist bei Zenodo archiviert. Die DOI verweist stets auf die aktuelle Fassung:
+
+ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung. Zenodo. https://doi.org/10.5281/zenodo.23663010
 
 ## Weitere Informationen
 

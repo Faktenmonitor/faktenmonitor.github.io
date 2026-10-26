@@ -1,10 +1,12 @@
 # ifo Faktenmonitor Ostdeutschland
 
-> Der ifo Faktenmonitor wurde auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
+> Der ifo Faktenmonitor wurde auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
 Stand: 27.9.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
 Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Quellenangabe: ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
+
+DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Wirtschaftskraft
 
