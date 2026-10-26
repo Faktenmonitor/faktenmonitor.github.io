@@ -2,7 +2,7 @@
 
 > Der ifo Faktenmonitor wurde auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
-Stand: 27.9.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
+Stand: 25.10.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
 Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Quellenangabe: ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
 
@@ -325,7 +325,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Anteil Steuern an den öffentlichen Einnahmen insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-steuern-an-den-oeffentlichen-einnahmen-insg-in-prozent.html): Statistisches Bundesamt, 2025
 - [Anteil Zuweisungen an den öffentlichen Einnahmen insg. in %](https://faktenmonitor.github.io/oeffentliche-haushalte/anteil-zuweisungen-an-den-oeffentlichen-einnahmen-insg-in-prozent.html): Statistisches Bundesamt, 2025
 - [Finanzierungssaldo in Euro je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/finanzierungssaldo-in-euro-je-einwohner.html): Statistisches Bundesamt, 2025
-- [Nettokreditaufnahme in Euro je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/nettokreditaufnahme-in-euro-je-einwohner.html)
+- [Nettokreditaufnahme in Euro je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/nettokreditaufnahme-in-euro-je-einwohner.html): Statistisches Bundesamt, 2025
 - [Finanzierungssaldo in % der öffentlichen Ausgaben insg.](https://faktenmonitor.github.io/oeffentliche-haushalte/finanzierungssaldo-in-prozent-der-oeffentlichen-ausgaben-insg.html): Statistisches Bundesamt, 2025
 - [Staatsquote in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/staatsquote-in-prozent-des-bip.html): eigene Berechnung auf Basis Statistisches Bundesamt/AK VGR der Länder, 2025
 - [Investitionsquote in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/investitionsquote-in-prozent-des-bip.html): eigene Berechnung auf Basis Statistisches Bundesamt/AK VGR der Länder, 2025

@@ -84,3 +84,4 @@ footer.site a { color: var(--muted); }
 .chart .kdot { fill: var(--west); }
 .k-dot { border-radius: 50%; } .k-avg { height: 0; border: 0; border-top: 2px solid #ff0000; width: 16px; vertical-align: 3px; }
 .legend .li { white-space: nowrap; margin-right: 6px; } .legend .li .k { margin-left: 0; }
+.tsdata { margin: -10px 0 24px; font-size: .92rem; } .tsdata summary { cursor: pointer; color: var(--link); }
