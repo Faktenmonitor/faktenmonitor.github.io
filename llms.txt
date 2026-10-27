@@ -191,7 +191,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 ## Industriedaten
 
 - [Betriebsgrößen (Beschäftigungsstatistik): Anteil der Betriebe/der Beschäftigten](https://faktenmonitor.github.io/industriedaten/betriebsgroessen-beschaeftigungsstatistik-anteil-der-betriebe-der-besc.html): Bundesagentur für Arbeit, 2025
-- [durchschnittliche Unternehmensgröße (Unternehmensregister)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-unternehmensgroesse-unternehmensregister.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße, Verarbeitendes Gewerbe (Unternehmensregister)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe-unternehm.html): Statistisches Bundesamt, 2019-2024
 - [durchschnittliche Betriebsgröße (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-industriestatistik.html): Statistisches Bundesamt, 2019-2025
 - [Umsatz je Betrieb (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/umsatz-je-betrieb-industriestatistik.html): Statistisches Bundesamt, 2019-2025
 - [durchschnittliche Betriebsgröße (Beschäftigtenstatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-beschaeftigtenstatistik.html): Bundesagentur für Arbeit, 2025
@@ -216,8 +216,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Schnell wachsende Unternehmen in % aller Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/schnell-wachsende-unternehmen-in-prozent-aller-unternehmen.html): Eurostat, 2021-2023
 - [Zahl der Unternehmen je Einwohner im erwerbsfähigen Alter](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-der-unternehmen-je-einwohner-im-erwerbsfaehigen-alter.html): Statistisches Bundesamt, 2019-2024
 - [Unternehmensgrößenstruktur (in % aller Unternehmen)](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgroessenstruktur-in-prozent-aller-unternehmen.html): Statistisches Bundesamt, 2019-2024
-- [durchschnittliche Unternehmensgröße (alle Wirtschaftsbereiche ohne Staat)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-alle-wirtschaftsbereiche-ohne-st.html): Statistisches Bundesamt, 2019-2024
-- [durchschnittliche Unternehmensgröße (Verarbeitendes Gewerbe)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße, alle Wirtschaftsbereiche ohne Staat](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-alle-wirtschaftsbereiche-ohne-st.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße, Verarbeitendes Gewerbe](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe.html): Statistisches Bundesamt, 2019-2024
 - [Unternehmensgründungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgruendungen-je-1-000-einwohner-je-100-unternehmen-einschli.html): Statistisches Bundesamt, 2019-2024/25
 - [Unternehmensschließungen je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensschliessungen-je-100-unternehmen-einschliesslich-nebengewe.html): Statistisches Bundesamt, 2019-2024
 - [Saldo der Unternehmensgründungen/-schließungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/saldo-der-unternehmensgruendungen-schliessungen-je-1-000-einwohner-je.html): Statistisches Bundesamt, 2019-2024/25
