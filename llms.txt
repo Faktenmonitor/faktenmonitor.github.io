@@ -1,6 +1,6 @@
 # ifo Faktenmonitor Ostdeutschland
 
-> Der ifo Faktenmonitor wurde auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
+> Der ifo Faktenmonitor wurde mit Unterstützung der Mitteldeutschen Stiftung Wissenschaft und Bildung erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
 Stand: 25.10.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
@@ -16,13 +16,13 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [BIP je Arbeitsstunde; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bip-je-arbeitsstunde-westdeutschland-100.html): AK VGR der Länder, 2019-2025
 - [Kapitalproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/kapitalproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
 - [Totale Faktorproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/totale-faktorproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
-- [BWS je Erwerbstätigen, Baugewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-baugewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [BWS je Erwerbstätigen, Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-verarbeitendes-gewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [BWS je Arbeitsstunde Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-arbeitsstunde-verarbeitendes-gewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [BWS je Erwerbstätigen, Handel/Gastgewerbe/Verkehr; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-handel-gastgewerbe-verkehr-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [BWS je Erwerbstätigen, Grundstückswesen, Finanzen, Unternehmensdienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-grundstueckswesen-finanzen-unternehmensdienstle.html): AK VGR der Länder, 2019-2025
-- [BWS je Erwerbstätigen, Öffentliche und Sonstige Dienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-oeffentliche-und-sonstige-dienstleister-westdeu.html): AK VGR der Länder, 2019-2025
-- [BWS je Erwerbstätigen nach Sektoren; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bws-je-erwerbstaetigen-nach-sektoren-westdeutschland-100.html): AK VGR der Länder, 2025
+- [Bruttowertschöpfung je Erwerbstätigen, Baugewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-baugewerbe-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigen, Verarbeitendes Gewerbe;, Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-verarbeitendes-gewerbe-westdeu.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Arbeitsstunde Verarbeitendes Gewerbe; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-arbeitsstunde-verarbeitendes-gewerbe-westdeuts.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigen, Handel/Gastgewerbe/Verkehr; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-handel-gastgewerbe-verkehr-wes.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigen, Unternehmensdienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-unternehmensdienstleister-west.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigen, Öffentliche und Sonstige Dienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-oeffentliche-und-sonstige-dien.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigen nach Sektoren; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-nach-sektoren-westdeutschland.html): AK VGR der Länder, 2025
 - [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-arbeitsstunde.html): AK VGR der Länder, 2023
 - [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
 
@@ -135,14 +135,14 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Lohnstückkosten
 
-- [Gesamtwirtschaft, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [Gesamtwirtschaft, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [Verarbeitendes Gewerbe, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [Verarbeitendes Gewerbe, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
-- [Veränderung, Gesamtwirtschaft, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
-- [Veränderung, Gesamtwirtschaft, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
-- [Veränderung,Verarbeitendes Gewerbe, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
-- [Veränderung, Verarbeitendes Gewerbe, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Gesamtwirtschaft, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Gesamtwirtschaft, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/gesamtwirtschaft-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Verarbeitendes Gewerbe, Basis Arbeitnehmer; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitnehmer-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Verarbeitendes Gewerbe, Basis Arbeitsstunden; Westdeutschland=100](https://faktenmonitor.github.io/lohnstueckkosten/verarbeitendes-gewerbe-basis-arbeitsstunden-westdeutschland-100.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Veränderung, Gesamtwirtschaft, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Veränderung, Gesamtwirtschaft, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-gesamtwirtschaft-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Veränderung, Verarbeitendes Gewerbe, Basis Arbeitnehmer](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitnehmer.html): AK VGR der Länder, 2019-2025
+- [Lohnstückkosten, Veränderung, Verarbeitendes Gewerbe, Basis Arbeitsstunden](https://faktenmonitor.github.io/lohnstueckkosten/veraenderung-verarbeitendes-gewerbe-basis-arbeitsstunden.html): AK VGR der Länder, 2019-2025
 
 ## Einkommen
 
@@ -191,7 +191,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 ## Industriedaten
 
 - [Betriebsgrößen (Beschäftigungsstatistik): Anteil der Betriebe/der Beschäftigten](https://faktenmonitor.github.io/industriedaten/betriebsgroessen-beschaeftigungsstatistik-anteil-der-betriebe-der-besc.html): Bundesagentur für Arbeit, 2025
-- [durchschnittliche Unternehmensgröße, Verarbeitendes Gewerbe (Unternehmensregister)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe-unternehm.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße (Unternehmensregister)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-unternehmensgroesse-unternehmensregister.html): Statistisches Bundesamt, 2019-2024
 - [durchschnittliche Betriebsgröße (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-industriestatistik.html): Statistisches Bundesamt, 2019-2025
 - [Umsatz je Betrieb (Industriestatistik)](https://faktenmonitor.github.io/industriedaten/umsatz-je-betrieb-industriestatistik.html): Statistisches Bundesamt, 2019-2025
 - [durchschnittliche Betriebsgröße (Beschäftigtenstatistik)](https://faktenmonitor.github.io/industriedaten/durchschnittliche-betriebsgroesse-beschaeftigtenstatistik.html): Bundesagentur für Arbeit, 2025
@@ -203,8 +203,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [darunter: Diversifikationsgrad der Beschäftigtenstruktur im Verarbeitenden Gewerbe](https://faktenmonitor.github.io/industriedaten/darunter-diversifikationsgrad-der-beschaeftigtenstruktur-im-verarbeite.html): Bundesagentur für Arbeit, 2025
 - [Branchenstruktur der SV-pflichtigen Beschäftigten: Verarbeitendes Gewerbe, sortiert](https://faktenmonitor.github.io/industriedaten/branchenstruktur-der-sv-pflichtigen-beschaeftigten-verarbeitendes-gewe.html): Bundesagentur für Arbeit, 2025
 - [Anteil energieintensiver Industriezweige an Umsatz/an Beschäftigten](https://faktenmonitor.github.io/industriedaten/anteil-energieintensiver-industriezweige-an-umsatz-an-beschaeftigten.html): Statistisches Bundesamt, 2025
-- [BWS je Erwerbstätigenstunde Verarbeitendes Gewerbe (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/bws-je-erwerbstaetigenstunde-verarbeitendes-gewerbe-vgr-westdeutschlan.html): AK VGR der Länder, 2019-2025
-- [Veränderungsrate BWS im Verarb. Gewerbe, real (VGR)](https://faktenmonitor.github.io/industriedaten/veraenderungsrate-bws-im-verarb-gewerbe-real-vgr.html): AK VGR der Länder, 2019-2025
+- [Bruttowertschöpfung je Erwerbstätigenstunde Verarbeitendes Gewerbe (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/bruttowertschoepfung-je-erwerbstaetigenstunde-verarbeitendes-gewerbe-v.html): AK VGR der Länder, 2019-2025
+- [Veränderungsrate Bruttowertschöpfung im Verarb. Gewerbe, real (VGR)](https://faktenmonitor.github.io/industriedaten/veraenderungsrate-bruttowertschoepfung-im-verarb-gewerbe-real-vgr.html): AK VGR der Länder, 2019-2025
 - [Löhne je Arbeitsstunde, Verarbeitendes Gewerbe (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/loehne-je-arbeitsstunde-verarbeitendes-gewerbe-vgr-westdeutschland-100.html): AK VGR der Länder, 2019-2025
 - [Lohnstückkosten Verarbeitendes Gewerbe, Basis Arbeitnehmer (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/lohnstueckkosten-verarbeitendes-gewerbe-basis-arbeitnehmer-vgr-westdeu.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
 - [Lohnstückkosten Verarbeitendes Gewerbe, Basis Arbeitsstunden (VGR); Westdeutschland=100](https://faktenmonitor.github.io/industriedaten/lohnstueckkosten-verarbeitendes-gewerbe-basis-arbeitsstunden-vgr-westd.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
@@ -216,8 +216,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Schnell wachsende Unternehmen in % aller Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/schnell-wachsende-unternehmen-in-prozent-aller-unternehmen.html): Eurostat, 2021-2023
 - [Zahl der Unternehmen je Einwohner im erwerbsfähigen Alter](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-der-unternehmen-je-einwohner-im-erwerbsfaehigen-alter.html): Statistisches Bundesamt, 2019-2024
 - [Unternehmensgrößenstruktur (in % aller Unternehmen)](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgroessenstruktur-in-prozent-aller-unternehmen.html): Statistisches Bundesamt, 2019-2024
-- [durchschnittliche Unternehmensgröße, alle Wirtschaftsbereiche ohne Staat](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-alle-wirtschaftsbereiche-ohne-st.html): Statistisches Bundesamt, 2019-2024
-- [durchschnittliche Unternehmensgröße, Verarbeitendes Gewerbe](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße (alle Wirtschaftsbereiche ohne Staat)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-alle-wirtschaftsbereiche-ohne-st.html): Statistisches Bundesamt, 2019-2024
+- [durchschnittliche Unternehmensgröße (Verarbeitendes Gewerbe)](https://faktenmonitor.github.io/unternehmen-und-betriebe/durchschnittliche-unternehmensgroesse-verarbeitendes-gewerbe.html): Statistisches Bundesamt, 2019-2024
 - [Unternehmensgründungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensgruendungen-je-1-000-einwohner-je-100-unternehmen-einschli.html): Statistisches Bundesamt, 2019-2024/25
 - [Unternehmensschließungen je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/unternehmensschliessungen-je-100-unternehmen-einschliesslich-nebengewe.html): Statistisches Bundesamt, 2019-2024
 - [Saldo der Unternehmensgründungen/-schließungen je 1.000 Einwohner/je 100 Unternehmen, einschließlich Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/saldo-der-unternehmensgruendungen-schliessungen-je-1-000-einwohner-je.html): Statistisches Bundesamt, 2019-2024/25
@@ -303,13 +303,13 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Bevölkerungsprognose
 
-- [Bevölkerung insg., 2025=100](https://faktenmonitor.github.io/bevoelkerungsprognose/bevoelkerung-insg-2025-100.html): Statistisches Bundesamt, 2025-2070
-- [erwerbsfähige Bevölkerung (20-64 Jahre), 2025=100](https://faktenmonitor.github.io/bevoelkerungsprognose/erwerbsfaehige-bevoelkerung-20-64-jahre-2025-100.html): Statistisches Bundesamt, 2025-2070
-- [0-19jährige in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/0-19jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
-- [20-64jährige in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/20-64jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
-- [65 und älter in % der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/65-und-aelter-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
-- [Durchschnittsalter der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerungsprognose/durchschnittsalter-der-bevoelkerung-insg.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
-- [Ersatzquote](https://faktenmonitor.github.io/bevoelkerungsprognose/ersatzquote.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
+- [Bevölkerung insg., 2025=100 (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/bevoelkerung-insg-2025-100.html): Statistisches Bundesamt, 2025-2070
+- [erwerbsfähige Bevölkerung (20-64 Jahre), 2025=100 (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/erwerbsfaehige-bevoelkerung-20-64-jahre-2025-100.html): Statistisches Bundesamt, 2025-2070
+- [0-19jährige in % der Bevölkerung insg. (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/0-19jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [20-64jährige in % der Bevölkerung insg. (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/20-64jaehrige-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [65 und älter in % der Bevölkerung insg. (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/65-und-aelter-in-prozent-der-bevoelkerung-insg.html): Statistisches Bundesamt, 2025-2070
+- [Durchschnittsalter der Bevölkerung insg. (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/durchschnittsalter-der-bevoelkerung-insg.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
+- [Ersatzquote (Prognose)](https://faktenmonitor.github.io/bevoelkerungsprognose/ersatzquote.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2025-2070
 
 ## öffentliche Haushalte
 
@@ -345,33 +345,33 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Sonstiges
 
-- [Stiftungen (Anzahl/je 1 Mio. Einwohner)](https://faktenmonitor.github.io/sonstiges/stiftungen-anzahl-je-1-mio-einwohner.html): Bundesverband deutscher Stiftungen, 2025
+- [Stiftungen (Anzahl/je 1.000 Einwohner)](https://faktenmonitor.github.io/sonstiges/stiftungen-anzahl-je-1-000-einwohner.html): Bundesverband deutscher Stiftungen, 2025
 - [Zusammensetzung Landtage](https://faktenmonitor.github.io/sonstiges/zusammensetzung-landtage.html): Landtage der Länder, 2026
 - [Zweitstimmenergebnisse Bundestagswahl 2025](https://faktenmonitor.github.io/sonstiges/zweitstimmenergebnisse-bundestagswahl-2025.html): Bundeswahlleiterin (Statistisches Bundesamt), 2025
 - [Zufriedenheitsindikatoren](https://faktenmonitor.github.io/sonstiges/zufriedenheitsindikatoren.html): BMWE, 2023
 
 ## Binnendifferenzierung
 
-- [BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Verfügbare Einkommen, nominal](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Verfügbare Einkommen, real](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Arbeitslosenquote](https://faktenmonitor.github.io/binnendifferenzierung/arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
+- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung Arbeitslosenquote](https://faktenmonitor.github.io/binnendifferenzierung/arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
 
 ## EU-Vergleichsdaten
 
-- [BIP je Einwohner in KKS](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-je-einwohner-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
-- [BIP-Wachstum](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-wachstum.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
-- [Veränderung BIP je Einwohner](https://faktenmonitor.github.io/eu-vergleichsdaten/veraenderung-bip-je-einwohner.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
-- [Verfügbare Einkommen in KKS](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [Arbeitsproduktivität](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [Arbeitslosenquote](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2025
-- [Erwerbstätigkeit](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
-- [Industrialisierungsgrad](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [FuE-Intensität](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [Bevölkerungsdynamik 2000-2024](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Beschäftigte in High-Tech-Sektoren](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Humanressourcen in wissensintensiven Berufen/Branchen (HRST)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Beschäftigte mit tertiärer Ausbildung](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Investitionsquote in % des BIP](https://faktenmonitor.github.io/eu-vergleichsdaten/investitionsquote-in-prozent-des-bip.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
+- [BIP je Einwohner in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-je-einwohner-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
+- [BIP-Wachstum (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-wachstum.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
+- [Veränderung BIP je Einwohner (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/veraenderung-bip-je-einwohner.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
+- [Verfügbare Einkommen in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Arbeitsproduktivität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Arbeitslosenquote (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2025
+- [Erwerbstätigkeit (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
+- [Industrialisierungsgrad (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [FuE-Intensität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [Bevölkerungsdynamik 2000-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Beschäftigte mit tertiärer Ausbildung (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
+- [Investitionsquote in % des BIP (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/investitionsquote-in-prozent-des-bip.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
 

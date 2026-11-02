@@ -4,7 +4,7 @@
 
 **Website: [https://faktenmonitor.github.io/](https://faktenmonitor.github.io/)**
 
-Der ifo Faktenmonitor stellt rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer bereit und vergleicht Ost- und Westdeutschland, meist für die Jahre ab 2019. Für ausgewählte Indikatoren gibt es Zeitreihen ab dem Jahr 2000 sowie Vergleichsdaten für europäische Regionen (NUTS-1) und die Mitgliedstaaten der EU. Der Faktenmonitor wurde vom ifo Institut, Niederlassung Dresden, auf Anregung des Saarower Kreises erstellt und im Mai 2025 erstmals vorgestellt.
+Der ifo Faktenmonitor Ostdeutschland enthält in 28 Kapiteln rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer im Vergleich von Ost- und Westdeutschland, meist für die Jahre ab 2019. Die Themen reichen von Wirtschaftskraft, Arbeitsmarkt und Einkommen über Unternehmen, Innovation und Bildung bis zu Bevölkerung, öffentlichen Haushalten und Energie. Für ausgewählte Indikatoren gibt es Zeitreihen ab 2000 sowie Vergleichsdaten für europäische Regionen (NUTS-1) und die Mitgliedstaaten der EU. Zu jedem Indikator gehören eine kurze Erläuterung seiner Aussagekraft, Kernaussagen, Abbildungen, die vollständige Datentabelle, Quelle und Datenstand. Der Faktenmonitor wurde vom ifo Institut, Niederlassung Dresden, mit Unterstützung der Mitteldeutschen Stiftung Wissenschaft und Bildung erstellt, im Mai 2025 erstmals vorgestellt und wird regelmäßig aktualisiert.
 
 ## Inhalt
 
