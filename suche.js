@@ -112,9 +112,19 @@
       var li = ul.querySelectorAll('li a');
       if (e.key === 'ArrowDown') { move(1); e.preventDefault(); }
       else if (e.key === 'ArrowUp') { move(-1); e.preventDefault(); }
-      else if (e.key === 'Enter') { e.preventDefault(); if (li.length) location.href = li[Math.max(sel, 0)].href; }
+      else if (e.key === 'Enter') {
+        // Enter springt nur zu einem mit den Pfeiltasten gewählten Treffer; sonst bleibt die Liste stehen
+        e.preventDefault();
+        if (sel >= 0 && li[sel]) location.href = li[sel].href;
+        else if (!big && inp.value.trim().length >= 2) location.href = ROOT + 'index.html?q=' + encodeURIComponent(inp.value.trim());
+        else render();
+      }
       else if (e.key === 'Escape') { inp.value = ''; render(); }
     });
+    if (big) {  // Suchbegriff aus der Kopfzeile einer Indikatorseite übernehmen (index.html?q=…)
+      var m = location.search.match(/[?&]q=([^&]*)/);
+      if (m) { inp.value = decodeURIComponent(m[1].replace(/\+/g, ' ')); render(); }
+    }
     if (!big) document.addEventListener('click', function (e) { if (!box.contains(e.target)) box.classList.remove('open'); });
   }
   var boxes = document.querySelectorAll('.fm-search');
