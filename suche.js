@@ -45,7 +45,7 @@
     return best;
   }
   function part(p, list) { // Teil eines zusammengesetzten Wortes, z. B. „firmen“ in „Firmengründungen“
-    for (var i = 0; i < list.length; i++) { var h = list[i].s; if (h.length >= 4 && (h.indexOf(p) === 0 || p.indexOf(h) === 0)) return true; }
+    for (var i = 0; i < list.length; i++) { var h = list[i].s, w = list[i].w; if (h.length >= 4 && (w.indexOf(p) === 0 || h === stem(p) || (p.indexOf(h) === 0 && p.length - h.length <= 2))) return true; }
     return false;
   }
   function compound(t, f) {
