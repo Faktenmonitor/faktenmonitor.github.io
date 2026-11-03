@@ -40,6 +40,7 @@
       var h = list[i];
       if (h.s === t.s) return 2;
       if (h.w.indexOf(t.w) === 0) best = Math.max(best, 1.6);
+      else if (t.w.length >= 6 && h.w.indexOf(t.s) > 0) best = Math.max(best, 1.2);  /* Wortteil in Zusammensetzung, z. B. „personen“ in „Erwerbspersonen“ */
       else if (t.s.length >= 8 && (lev1(t.s, h.s) || (h.s.length > t.s.length && lev1(t.s, h.s.slice(0, t.s.length))))) best = Math.max(best, 1);
     }
     return best;
