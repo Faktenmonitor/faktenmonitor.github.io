@@ -88,7 +88,7 @@
       else tier = 4;
       out.push({it: it, tier: tier});
     });
-    return out.sort(function (a, b) { return a.tier - b.tier || a.it.o - b.it.o; });  // innerhalb einer Stufe wie im Inhaltsverzeichnis
+    return out.sort(function (a, b) { return a.tier - b.tier || (b.it.x.r || 0) - (a.it.x.r || 0) || a.it.o - b.it.o; });  // Stufe, Suchpriorität, Inhaltsverzeichnis
   }
   function esc(s) { return s.replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function mark(s, q) {
