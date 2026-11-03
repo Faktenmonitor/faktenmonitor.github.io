@@ -35,7 +35,9 @@
   function prep(d) {
     IDX = d.map(function (x) {
       var f = {}; for (var k in W) f[k] = toks(bez(x[k] || ''));
-      return {x: x, f: f, o: IDX_N++, raw: norm([x.n, x.s, x.e, x.p].join(' '))};
+      // Kern des Namens für die Rangfolge: ohne Bezugsgrößen, ohne „Anteil an …“ und ohne vorangestelltes „Binnendifferenzierung“
+      var kern = bez(x.n.replace(/^Binnendifferenzierung\s+/, '').replace(/Anteile? (der [A-Za-zÄÖÜäöüß-]+ )?an (den )?[A-Za-zÄÖÜäöüß-]+:?/g, ' '));
+      return {x: x, f: f, k: toks(kern), o: IDX_N++, raw: norm([x.n, x.s, x.e, x.p].join(' ')), rawn: norm(x.n)};
     });
   }
   function hit(t, list) { // t und Listeneinträge: {w: Wort, s: Wortstamm}
@@ -59,6 +61,11 @@
     for (var i = 4; i <= t.length - 4; i++) if (part(t.slice(0, i), all) && part(t.slice(i), all)) return 2;
     return 0;
   }
+  function inName(t, k) {  // auch als Teil eines zusammengesetzten Wortes, z. B. „löhne“ in „Medianlöhne“
+    if (hit(t, k)) return true;
+    for (var i = 0; i < k.length; i++) if (t.s.length >= 4 && k[i].w.indexOf(t.s) > 0) return true;
+    return false;
+  }
   function search(q) {
     var qt = toks(q); if (!qt.length) return [];
     var phrase = q.trim().indexOf(' ') > 0 ? norm(q.trim()) : null, out = [];
@@ -70,10 +77,18 @@
         if (!best) best = compound(t, it.f);
         if (!best) ok = false; score += best;
       });
-      if (phrase && it.raw.indexOf(phrase) >= 0) { ok = true; score += 40; }
-      if (ok) out.push({it: it, score: score + (norm(it.x.n).indexOf(norm(q.trim())) === 0 ? 5 : 0)});
+      if (phrase && it.raw.indexOf(phrase) >= 0) ok = true;
+      if (!ok) return;
+      // Rangstufe: 1 = Name beginnt mit dem Suchbegriff, 2 = Suchbegriff steht im Namen,
+      // 3 = nur in Bezugsgröße/„Anteil an …“ oder in den Suchbegriffen, 4 = nur in Beschreibung
+      var tier;
+      if (phrase && it.rawn.indexOf(phrase) >= 0) tier = it.rawn.indexOf(phrase) === 0 ? 1 : 2;
+      else if (qt.every(function (t) { return inName(t, it.k); })) tier = it.k.length && hit(qt[0], [it.k[0]]) ? 1 : 2;
+      else if (qt.every(function (t) { return hit(t, it.f.n) || hit(t, it.f.s); })) tier = 3;
+      else tier = 4;
+      out.push({it: it, tier: tier});
     });
-    return out.sort(function (a, b) { return a.it.o - b.it.o; });  // Reihenfolge wie im Inhaltsverzeichnis
+    return out.sort(function (a, b) { return a.tier - b.tier || a.it.o - b.it.o; });  // innerhalb einer Stufe wie im Inhaltsverzeichnis
   }
   function esc(s) { return s.replace(/[&<>"]/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
   function mark(s, q) {
