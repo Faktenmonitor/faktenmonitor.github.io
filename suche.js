@@ -13,8 +13,12 @@
     return w;
   }
   function toks(s) { return (norm(s).match(/[a-z0-9]+/g) || []).filter(function (w) { return !STOP[w]; }).map(function (w) { return {w: w, s: stem(w)}; }); }
-  // „in % des BIP“: BIP ist dort nur Bezugsgröße und zählt nicht als Treffer für „BIP“
-  function bez(s) { return s.replace(/(in )?(%|Prozent) des BIP/g, ' '); }
+  // Bezugsgrößen zählen nicht als Treffer: „in % des BIP“, „je Erwerbstätigen“, „pro Kopf“, „je 1.000 Einwohner“ usw.
+  // (bei Suche nach mehreren Wörtern gilt zusätzlich der Originaltext)
+  var W_ = "[A-Za-zÄÖÜäöüß-]+";
+  var BEZ = [new RegExp("(in )?(%|Prozent) (des|der|aller|am|an) (" + W_ + " )?" + W_, "g"),
+             new RegExp("(^|[^A-Za-zÄÖÜäöüß])(je|pro) (\\d[\\d.,]*\\s*(Mio\\.\\s*)?)?([a-zäöüß][A-Za-zäöüß-]* )?" + W_, "g")];
+  function bez(s) { return s.replace(BEZ[0], " ").replace(BEZ[1], "$1 "); }
   function lev1(a, b) { // höchstens ein Tippfehler: ein Buchstabe falsch, fehlend, zu viel oder zwei vertauscht
     if (a === b) return true;
     if (Math.abs(a.length - b.length) > 1) return false;
