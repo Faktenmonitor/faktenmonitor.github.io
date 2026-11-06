@@ -2,7 +2,7 @@
 
 > Der ifo Faktenmonitor wurde mit Unterstützung der Mitteldeutschen Stiftung Wissenschaft und Bildung erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
-Stand: 25.10.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
+Stand: 6.11.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
 Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Quellenangabe: ifo Faktenmonitor Ostdeutschland, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
 
@@ -23,8 +23,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Bruttowertschöpfung je Erwerbstätigen, Unternehmensdienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-unternehmensdienstleister-west.html): AK VGR der Länder, 2019-2025
 - [Bruttowertschöpfung je Erwerbstätigen, Öffentliche und Sonstige Dienstleister; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-oeffentliche-und-sonstige-dien.html): AK VGR der Länder, 2019-2025
 - [Bruttowertschöpfung je Erwerbstätigen nach Sektoren; Westdeutschland=100](https://faktenmonitor.github.io/wirtschaftskraft/bruttowertschoepfung-je-erwerbstaetigen-nach-sektoren-westdeutschland.html): AK VGR der Länder, 2025
-- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-arbeitsstunde.html): AK VGR der Länder, 2023
-- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-arbeitsstunde.html): AK VGR der Länder, 2024
+- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/wirtschaftskraft/binnendifferenzierung-bip-je-erwerbstaetigen.html): AK VGR der Länder, 2024
 
 ## Wirtschaftswachstum
 
@@ -104,12 +104,12 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Arbeitsnachfrage
 
-- [Erwerbstätige (Inland), Anteil an Deutschland](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-inland-anteil-an-deutschland.html): AK VGR der Länder, 2019-2025
-- [Erwerbstätigenquote (Wohnort) in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetigenquote-wohnort-in-prozent.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2024
+- [Erwerbstätige (Inland), Anteil an Deutschland](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-inland-anteil-an-deutschland.html): AK ETR der Länder, 2019-2025
+- [Erwerbstätigenquote (Wohnort) in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetigenquote-wohnort-in-prozent.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder, 2019-2024
 - [Erwerbstätige (Arbeitsort) je 100 erwerbsfähige Einwohner (Wohnort)](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-arbeitsort-je-100-erwerbsfaehige-einwohner-wohnort.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder/Statistisches Bundesamt, 2019-2025
-- [Erwerbstätige (Arbeitsort), Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-arbeitsort-veraenderung-in-prozent.html): AK VGR der Länder, 2019-2025
-- [Arbeitsvolumen, Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsvolumen-veraenderung-in-prozent.html): AK VGR der Länder, 2019-2025
-- [Arbeitsstunden pro Jahr](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsstunden-pro-jahr.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2025
+- [Erwerbstätige (Arbeitsort), Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/erwerbstaetige-arbeitsort-veraenderung-in-prozent.html): AK ETR der Länder, 2019-2025
+- [Arbeitsvolumen, Veränderung in %](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsvolumen-veraenderung-in-prozent.html): AK ETR der Länder, 2019-2025
+- [Arbeitsstunden pro Jahr](https://faktenmonitor.github.io/arbeitsnachfrage/arbeitsstunden-pro-jahr.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder, 2019-2025
 - [Pendlersaldo je 100 Erwerbstätige](https://faktenmonitor.github.io/arbeitsnachfrage/pendlersaldo-je-100-erwerbstaetige.html): eigene Berechnung auf Basis Grunddaten AK ETR der Länder, 2019-2024
 - [Auspendler in % der Beschäftigten am Wohnort](https://faktenmonitor.github.io/arbeitsnachfrage/auspendler-in-prozent-der-beschaeftigten-am-wohnort.html): Bundesagentur für Arbeit, 2019-2025
 - [Einpendler in % der Beschäftigten am Arbeitsort](https://faktenmonitor.github.io/arbeitsnachfrage/einpendler-in-prozent-der-beschaeftigten-am-arbeitsort.html): Bundesagentur für Arbeit, 2019-2025
@@ -226,7 +226,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Saldo der Unternehmensgründungen/-schließungen je 1.000 Einwohner/je 100 Unternehmen, ohne Nebengewerbe/Zweigniederlassungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/saldo-der-unternehmensgruendungen-schliessungen-je-1-000-einwohner-je-2.html): Statistisches Bundesamt, 2019-2024/25
 - [start-up-Neugründungen je 100.000 Einwohner/in% aller Unternehmensneugründungen](https://faktenmonitor.github.io/unternehmen-und-betriebe/start-up-neugruendungen-je-100-000-einwohner-in-prozent-aller-unterneh.html): Startup-Verband; Statistisches Bundesamt, 2023-2025/24
 - [Zahl bestehender Start-ups je 100.000 Einwohner](https://faktenmonitor.github.io/unternehmen-und-betriebe/zahl-bestehender-start-ups-je-100-000-einwohner.html): Startup-Verband, 2023-2025
-- [übergabereife Unternehmen (Unternehmensnachfolge) je 1.000 Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/uebergabereife-unternehmen-unternehmensnachfolge-je-1-000-unternehmen.html): Institut für Mittelstandsforschung, 2022-2026/2026-2030
+- [übergabereife Unternehmen (Unternehmensnachfolge) je 1.000 Unternehmen](https://faktenmonitor.github.io/unternehmen-und-betriebe/uebergabereife-unternehmen-unternehmensnachfolge-je-1-000-unternehmen.html): Institut für Mittelstandsforschung, 2022-2026 2026-2030
 - [Selbständige 55-64 Jahre in Relation Selbständigen insgesamt](https://faktenmonitor.github.io/unternehmen-und-betriebe/selbstaendige-55-64-jahre-in-relation-selbstaendigen-insgesamt.html): Statistisches Bundesamt, 2025
 - [Betriebsgrößen (Beschäftigungsstatistik), Gesamtwirtschaft: Anteil an Betrieben/Beschäftigten](https://faktenmonitor.github.io/unternehmen-und-betriebe/betriebsgroessen-beschaeftigungsstatistik-gesamtwirtschaft-anteil-an-b.html): Bundesagentur für Arbeit, 2025
 - [Betriebsgrößen (Beschäftigungsstatistik), Verarbeitendes Gewerbe: Anteil an Betrieben/Beschäftigten](https://faktenmonitor.github.io/unternehmen-und-betriebe/betriebsgroessen-beschaeftigungsstatistik-verarbeitendes-gewerbe-antei.html): Bundesagentur für Arbeit, 2025
@@ -260,14 +260,15 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 - [Zahl der Hochschulen (absolut und je 1 Mio. Einwohner)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/zahl-der-hochschulen-absolut-und-je-1-mio-einwohner.html): BMBF (BMFTR), 2024/25
 - [Zahl der Forschungseinrichtungen (absolut und je 1 Mio. Einwohner)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/zahl-der-forschungseinrichtungen-absolut-und-je-1-mio-einwohner.html): BMBF (BMFTR), 2024/25
-- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2024
+- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2025
 - [Studierende MINT-Fächer in % aller Studierenden](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/studierende-mint-faecher-in-prozent-aller-studierenden.html): Statistisches Bundesamt, 2019-2025
 - [Ausländische Studierende in % aller Studierenden](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/auslaendische-studierende-in-prozent-aller-studierenden.html): Statistisches Bundesamt, 2019-2025
 - [Ausländische Studierende in MINT-Fächern in % aller Studierenden in MINT-Fächern](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/auslaendische-studierende-in-mint-faechern-in-prozent-aller-studierend.html): Statistisches Bundesamt, 2019-2025
-- [Anteil MINT-Fächer an Prüfungen](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/anteil-mint-faecher-an-pruefungen.html): Statistisches Bundesamt, 2019-2024
+- [Anteil MINT-Fächer an Prüfungen](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/anteil-mint-faecher-an-pruefungen.html): Statistisches Bundesamt, 2019-2025
+- [Absolventenquote](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/absolventenquote.html): Statistisches Bundesamt, 2019-2024
 - [Ausgaben der Hochschulen je 1.000 Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/ausgaben-der-hochschulen-je-1-000-einwohner.html): Statistisches Bundesamt, 2024
 - [Ausgaben der Hochschulen in % des BIP](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/ausgaben-der-hochschulen-in-prozent-des-bip.html): Statistisches Bundesamt, 2024
-- [Drittmitteleinnahmen der Hochschulen je wiss. Personal, Westdeutschland=100](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/drittmitteleinnahmen-der-hochschulen-je-wiss-personal-westdeutschland.html): Statistisches Bundesamt, 2019-2023
+- [Drittmitteleinnahmen der Hochschulen je wiss. Personal, Westdeutschland=100](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/drittmitteleinnahmen-der-hochschulen-je-wiss-personal-westdeutschland.html): Statistisches Bundesamt, 2019-2024
 - [FuE-Personal, Hochschulen, je 1.000 Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/fue-personal-hochschulen-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2024
 - [Patentanmeldungen Hochschulen je 1 Mio. Einwohner](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/patentanmeldungen-hochschulen-je-1-mio-einwohner.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2025
 - [Patentanmeldungen Hochschulen je 1.000 FuE-Beschäftigte](https://faktenmonitor.github.io/hochschulen-forschungseinrichtungen/patentanmeldungen-hochschulen-je-1-000-fue-beschaeftigte.html): DPMA/Stifterverband/Statistisches Bundesamt, 2019-2024
@@ -276,8 +277,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 - [Ausgaben für Bildung in % des BIP/je Einwohner (6-24 Jahre)](https://faktenmonitor.github.io/bildung/ausgaben-fuer-bildung-in-prozent-des-bip-je-einwohner-6-24-jahre.html): Statistisches Bundesamt, 2019-2025
 - [Ergebnisse INSM Schulleistungsvergleich, Westdeutschland=100](https://faktenmonitor.github.io/bildung/ergebnisse-insm-schulleistungsvergleich-westdeutschland-100.html): INSM, 2025
-- [Schulabgänger nach erreichtem Abschluss, in % aller Schulabgänger](https://faktenmonitor.github.io/bildung/schulabgaenger-nach-erreichtem-abschluss-in-prozent-aller-schulabgaeng.html): Statistisches Bundesamt, 2018-2024
-- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/bildung/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2024
+- [Schulabgänger nach erreichtem Abschluss, in % aller Schulabgänger](https://faktenmonitor.github.io/bildung/schulabgaenger-nach-erreichtem-abschluss-in-prozent-aller-schulabgaeng.html): Statistisches Bundesamt, 2019-2025
+- [Studierende je 1.000 Einwohner (18-24 Jahre)](https://faktenmonitor.github.io/bildung/studierende-je-1-000-einwohner-18-24-jahre.html): Statistisches Bundesamt, 2019-2025
 
 ## Bevölkerung (aktuell)
 
@@ -295,7 +296,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Ruhestandswanderungssaldo (je 1.000 Einwohner der gleichaltrigen Altersgruppe)](https://faktenmonitor.github.io/bevoelkerung-aktuell/ruhestandswanderungssaldo-je-1-000-einwohner-der-gleichaltrigen-alters.html): BBSR, 2019-2023
 - [Saldo der natürlichen Bevölkerungsentwicklung je 1.000 Einwohner](https://faktenmonitor.github.io/bevoelkerung-aktuell/saldo-der-natuerlichen-bevoelkerungsentwicklung-je-1-000-einwohner.html): Statistisches Bundesamt, 2019-2025
 - [Geburtenrate](https://faktenmonitor.github.io/bevoelkerung-aktuell/geburtenrate.html): Statistisches Bundesamt, 2019-2025
-- [Lebenserwartung bei Geburt (männlich/weiblich)](https://faktenmonitor.github.io/bevoelkerung-aktuell/lebenserwartung-bei-geburt-maennlich-weiblich.html): Statistisches Bundesamt, 2019-2025
+- [Lebenserwartung bei Geburt (männlich/weiblich)](https://faktenmonitor.github.io/bevoelkerung-aktuell/lebenserwartung-bei-geburt-maennlich-weiblich.html): Statistisches Bundesamt, 2019-2024
 - [Altersstruktur der Bevölkerung insgesamt in %](https://faktenmonitor.github.io/bevoelkerung-aktuell/altersstruktur-der-bevoelkerung-insgesamt-in-prozent.html): Statistisches Bundesamt, 2025
 - [Altersstruktur der Erwerbstätigen (Wohnort) in %](https://faktenmonitor.github.io/bevoelkerung-aktuell/altersstruktur-der-erwerbstaetigen-wohnort-in-prozent.html): Statistisches Bundesamt, 2025
 - [Durchschnittsalter der Bevölkerung insg.](https://faktenmonitor.github.io/bevoelkerung-aktuell/durchschnittsalter-der-bevoelkerung-insg.html): eigene Berechnungen auf Basis Grunddaten Statistisches Bundesamt, 2019-2025
@@ -352,8 +353,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Binnendifferenzierung
 
-- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
+- [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
 - [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
 - [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
 - [Binnendifferenzierung Arbeitslosenquote](https://faktenmonitor.github.io/binnendifferenzierung/arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
