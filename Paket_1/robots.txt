@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faktenmonitor.github.io/sitemap.xml
