@@ -370,6 +370,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Erwerbstätigkeit (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
 - [Industrialisierungsgrad (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
 - [FuE-Intensität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
+- [FuE-Intensität Unternehmenssektor (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet-unternehmenssektor-eu-vergleich.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
 - [Bevölkerungsdynamik 2000-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
 - [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
 - [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
