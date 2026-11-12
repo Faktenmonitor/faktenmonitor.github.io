@@ -117,3 +117,8 @@ header.site { display: flex; align-items: center; justify-content: space-between
 .hits li.none { padding: 10px 12px; color: var(--muted); font-size: .85rem; }
 .fm-search[hidden] { display: none; }
 @media (max-width: 600px) { .hsearch { width: 100%; } .hsearch .fm-hits { left: 0; right: auto; width: 100%; } }
+
+/* EU-Vergleich: Tabelle nur so breit wie nötig, lange Regionsnamen umbrechen */
+table.eu { width: auto; }
+table.eu tbody th { white-space: normal; min-width: 14em; max-width: 24em; }
+table.eu td { min-width: 4.5em; }
