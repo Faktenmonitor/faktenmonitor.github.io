@@ -118,6 +118,11 @@ header.site { display: flex; align-items: center; justify-content: space-between
 .fm-search[hidden] { display: none; }
 @media (max-width: 600px) { .hsearch { width: 100%; } .hsearch .fm-hits { left: 0; right: auto; width: 100%; } }
 
+/* EU-Vergleich: Tabelle nur so breit wie nötig, lange Regionsnamen umbrechen */
+table.eu { width: auto; }
+table.eu tbody th { white-space: normal; min-width: 14em; max-width: 24em; }
+table.eu td { min-width: 4.5em; }
+
 .sb-head { display: flex; gap: 8px 24px; flex-wrap: wrap; align-items: baseline; }
 .badge { font-size: .8rem; color: var(--muted); border: 1px solid var(--rule); padding: 2px 8px; }
 svg.prof { width: 100%; height: auto; display: block; }
@@ -151,7 +156,7 @@ svg.prof [data-tip] { cursor: help; } svg.prof a[data-tip] { cursor: pointer; }
 .facts section { background: var(--surface); border: 1px solid var(--rule); border-top: 4px solid var(--ost); padding: 12px 16px; }
 .facts section.dn { border-top-color: var(--petrol); }
 .facts h3 { font: 600 1rem/1.3 var(--serif); margin: 0 0 8px; } .facts ul { margin: 0; padding-left: 1.1em; } .facts li { margin: 0 0 5px; font-size: .92rem; }
-</style></head><body><header class="site"><a class="brand" href="../index.html">ifo Faktenmonitor <span>Ostdeutschland</span></a><div class="fm-search hsearch" role="search" hidden><input class="fm-q" type="search" autocomplete="off" placeholder="Indikator/Land suchen" aria-label="Indikator oder Land suchen"><ul class="hits fm-hits"></ul></div></header><main>
+</style></head><body><header class="site"><a class="brand" href="../index.html">ifo Faktenmonitor</a><div class="fm-search hsearch" role="search" hidden><input class="fm-q" type="search" autocomplete="off" placeholder="Indikator/Land suchen" aria-label="Indikator oder Land suchen"><ul class="hits fm-hits"></ul></div></header><main>
 <div class="crumbs"><a href="../index.html">Übersicht</a> / <a href="index.html">Ländersteckbriefe</a> /</div>
 <div class="sb-head"><h1>Steckbrief Ostdeutschland (ohne Berlin)</h1><span class="badge">Entwurf, grafische Fassung</span></div>
 <div class="kurz"><p>Ostdeutschland ohne Berlin erreicht beim BIP je Einwohner 75 % und bei der Produktivität je Erwerbstätigenstunde 85 % des Bundeswerts; die Produktivität ist seit 2019 mit 0,8 % pro Jahr aber fast dreimal so schnell gestiegen wie im Bund, die Reallöhne fast doppelt so schnell. Die realen Einkommen liegen bei 93 %, die originäre Steuerkraft bei 65 % des Bundeswerts. Unternehmensnahe Dienste, Exportquote, Betriebsgröße der Industrie und FuE-Aufwand der Wirtschaft liegen deutlich unter dem Bundesniveau. Nach der Prognose sinkt die Zahl der Erwerbsfähigen bis 2040 um knapp 10 %; Armutsgefährdungsquote und öffentliche Verschuldung je Einwohner sind niedriger als im Bund.</p></div>
@@ -175,7 +180,7 @@ svg.prof [data-tip] { cursor: help; } svg.prof a[data-tip] { cursor: pointer; }
 <h3>Bildung</h3><ul><li><a href="../bildung/ausgaben-fuer-bildung-in-prozent-des-bip-je-einwohner-6-24-jahre.html" data-tip="Ressourceneinsatz für Bildung">Ausgaben für Bildung in % des BIP/je Einwohner (6-24 Jahre)</a> (2025): 5,5 gegenüber 4,3 in Deutschland</li></ul>
 <h3>Bevölkerung (aktuell)</h3><ul><li><a href="../bevoelkerung-aktuell/auslaenderanteil-in-prozent-der-bevoelkerung.html" data-tip="Bedeutung der Zuwanderung für die Bevölkerungsentwicklung">Ausländeranteil in % der Bevölkerung</a> (2025): 7,8 gegenüber 14,9 in Deutschland</li><li><a href="../bevoelkerung-aktuell/saldo-der-natuerlichen-bevoelkerungsentwicklung-je-1-000-einwohner.html" data-tip="Geburten minus Sterbefälle; natürlicher Bevölkerungszuwachs bzw. -rückgang">Saldo der natürlichen Bevölkerungsentwicklung je 1.000 Einwohner</a> (2025): -9,2 gegenüber -4,2 in Deutschland</li></ul>
 </div>
-<p class="note">Quelle: ifo Faktenmonitor Ostdeutschland.</p></main><div class="tip" id="tip"></div><script>
+<p class="note">Quelle: ifo Faktenmonitor.</p></main><div class="tip" id="tip"></div><script>
 (function () {  // Hinweisfelder für Indikatornamen (Kurzbeschreibung) und Länderwerte; auch per Antippen
   var tip = document.getElementById('tip');
   function show(t, x, y) { tip.textContent = t; tip.style.display = 'block';
