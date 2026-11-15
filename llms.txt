@@ -2,9 +2,9 @@
 
 > Der ifo Faktenmonitor wurde mit Unterstützung der Mitteldeutschen Stiftung Wissenschaft und Bildung erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
-Stand: 6.11.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
+Stand: 15.11.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
-Lizenz: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Quellenangabe: ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
+Lizenz: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), nicht-kommerzielle Nutzung mit Quellenangabe; kommerzielle Nutzung nur nach Vereinbarung (ragnitz@ifo.de). Einzelheiten: https://faktenmonitor.github.io/lizenz.html. Quellenangabe: ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
 
 DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 

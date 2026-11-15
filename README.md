@@ -19,15 +19,13 @@ Wirtschaftskraft und Wirtschaftswachstum, Wirtschaftsstruktur und sektoraler Str
 
 ## Lizenz
 
-Die Daten und Abbildungen stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de). Sie dürfen frei verwendet, weitergegeben und bearbeitet werden, sofern die Quelle genannt wird:
+Die Daten und Abbildungen stehen unter der Lizenz [Creative Commons Namensnennung – Nicht-kommerziell 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.de). Sie dürfen für nicht-kommerzielle Zwecke frei verwendet, weitergegeben und bearbeitet werden, sofern die Quelle genannt wird. Für Daten Dritter gelten die Bedingungen der jeweils angegebenen Originalquelle. Anfragen zur kommerziellen Nutzung: ragnitz@ifo.de
 
 **ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung**
 
 ## Zitieren
 
-Der Datensatz ist bei Zenodo archiviert. Die DOI verweist stets auf die aktuelle Fassung:
-
-ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung. Zenodo. https://doi.org/10.5281/zenodo.23663010
+ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung (Datenstand 15.11.2026). Zenodo. https://doi.org/10.5281/zenodo.23663010
 
 ## Weitere Informationen
 
