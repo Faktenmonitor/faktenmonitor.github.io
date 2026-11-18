@@ -144,6 +144,11 @@ svg.euk .lbl { font: 600 11px var(--sans); fill: var(--ink); text-anchor: middle
 .tip { position: fixed; z-index: 50; max-width: 340px; padding: 6px 10px; background: var(--ink); color: var(--surface); font: .82rem/1.4 var(--sans);
   border-radius: 3px; pointer-events: none; box-shadow: 0 4px 14px rgba(0,0,0,.25); display: none; }
 
+/* Hinweise beim Überfahren (Länderdiagramme, EU-Karten) */
+.chart [data-tip] { cursor: help; } .chart rect[data-tip]:hover { stroke: var(--ink); stroke-width: 1.4; }
+.chart .hit { stroke: transparent; stroke-width: 9; pointer-events: stroke; }
+.chart .eu-ber { stroke: var(--ink); stroke-width: .8; }  /* Rahmen für den schraffierten Berlin-Balken im EU-Vergleich */
+
 .sb-head { display: flex; gap: 8px 24px; flex-wrap: wrap; align-items: baseline; }
 .badge { font-size: .8rem; color: var(--muted); border: 1px solid var(--rule); padding: 2px 8px; }
 svg.prof { width: 100%; height: auto; display: block; }
