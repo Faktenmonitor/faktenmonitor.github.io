@@ -150,3 +150,16 @@
   var boxes = document.querySelectorAll('.fm-search');
   for (var i = 0; i < boxes.length; i++) { boxes[i].hidden = false; setup(boxes[i]); }
 })();
+
+/* Hinweise beim Überfahren von Balken, Linien und Kartenregionen (data-tip); auch per Antippen */
+(function () {
+  if (document.getElementById('tip')) return;  // Seiten mit eigenem Hinweisfeld (Ländersteckbriefe)
+  var tip = document.createElement('div'); tip.className = 'tip'; document.body.appendChild(tip);
+  var SEL = 'svg.chart [data-tip], svg.euk [data-tip]';
+  function show(t, x, y) { tip.textContent = t; tip.style.display = 'block'; var w = tip.offsetWidth, h = tip.offsetHeight;
+    tip.style.left = Math.min(x + 14, window.innerWidth - w - 8) + 'px'; tip.style.top = (y + 18 + h > window.innerHeight ? y - h - 10 : y + 18) + 'px'; }
+  document.addEventListener('mousemove', function (ev) { var el = ev.target.closest && ev.target.closest(SEL);
+    if (el) show(el.getAttribute('data-tip'), ev.clientX, ev.clientY); else tip.style.display = 'none'; });
+  document.addEventListener('touchstart', function (ev) { var el = ev.target.closest && ev.target.closest(SEL);
+    if (el) { var t = ev.touches[0]; show(el.getAttribute('data-tip'), t.clientX, t.clientY); } else tip.style.display = 'none'; }, {passive: true});
+})();
