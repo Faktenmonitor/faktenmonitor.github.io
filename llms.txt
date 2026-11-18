@@ -361,19 +361,19 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## EU-Vergleichsdaten
 
-- [BIP je Einwohner in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-je-einwohner-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
-- [BIP-Wachstum (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-wachstum.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
-- [Veränderung BIP je Einwohner (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/veraenderung-bip-je-einwohner.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019-2024
-- [Verfügbare Einkommen in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [Arbeitsproduktivität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [Arbeitslosenquote (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2025
-- [Erwerbstätigkeit (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2024
-- [Industrialisierungsgrad (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [FuE-Intensität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2019, 2023
-- [FuE-Intensität Unternehmenssektor (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet-unternehmenssektor-eu-vergleich.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
-- [Bevölkerungsdynamik 2000-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Beschäftigte mit tertiärer Ausbildung (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2024
-- [Investitionsquote in % des BIP (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/investitionsquote-in-prozent-des-bip.html): eigene Berechnungen auf Basis Grunddaten Eurostat, 2023
+- [BIP je Einwohner in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-je-einwohner-in-kks.html): Eurostat, 2019, 2024
+- [BIP-Wachstum (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bip-wachstum.html): Eurostat, 2019-2024
+- [Veränderung BIP je Einwohner (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/veraenderung-bip-je-einwohner.html): Eurostat, 2019-2024
+- [Verfügbare Einkommen in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): Eurostat, 2019, 2023
+- [Arbeitsproduktivität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): Eurostat, 2019, 2023
+- [Arbeitslosenquote (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): Eurostat, 2019, 2025
+- [Erwerbstätigkeit (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): Eurostat, 2019, 2024
+- [Industrialisierungsgrad (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): Eurostat, 2019, 2023
+- [FuE-Intensität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): Eurostat, 2019, 2023
+- [FuE-Intensität Unternehmenssektor (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet-unternehmenssektor-eu-vergleich.html): Eurostat, 2023
+- [Bevölkerungsdynamik 2000-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): Eurostat, 2024
+- [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): Eurostat, 2024
+- [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): Eurostat, 2024
+- [Beschäftigte mit tertiärer Ausbildung (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): Eurostat, 2024
+- [Investitionsquote in % des BIP (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/investitionsquote-in-prozent-des-bip.html): Eurostat, 2023
 
