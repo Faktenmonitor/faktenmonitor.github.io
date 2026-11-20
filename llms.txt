@@ -333,6 +333,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [originäre Steuerkraft je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/originaere-steuerkraft-je-einwohner-westdeutschland-100.html): eigene Berechnung auf Basis Bundesministerium der Finanzen, 2025
 - [öffentliche Schulden in % des BIP](https://faktenmonitor.github.io/oeffentliche-haushalte/oeffentliche-schulden-in-prozent-des-bip.html): Statistisches Bundesamt, 2019-2025
 - [öffentliche Schulden je Einwohner](https://faktenmonitor.github.io/oeffentliche-haushalte/oeffentliche-schulden-je-einwohner.html): Statistisches Bundesamt, 2019-2025
+- [Zins-Steuer-Quote in %](https://faktenmonitor.github.io/oeffentliche-haushalte/zins-steuer-quote-in-prozent.html): Statistisches Bundesamt, 2019-2025
 - [Bauinvestitionen des Staates je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/oeffentliche-haushalte/bauinvestitionen-des-staates-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
 
 ## Energie und Umwelt
