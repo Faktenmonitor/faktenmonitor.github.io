@@ -368,11 +368,12 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Verfügbare Einkommen in KKS (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/verfuegbare-einkommen-in-kks.html): Eurostat, 2019, 2023
 - [Arbeitsproduktivität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitsproduktivitaet.html): Eurostat, 2019, 2023
 - [Arbeitslosenquote (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/arbeitslosenquote.html): Eurostat, 2019, 2025
-- [Erwerbstätigkeit (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): Eurostat, 2019, 2024
+- [Veränderung der Zahl der Erwerbstätigen (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/erwerbstaetigkeit.html): Eurostat, 2019, 2024
 - [Industrialisierungsgrad (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/industrialisierungsgrad.html): Eurostat, 2019, 2023
 - [FuE-Intensität (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet.html): Eurostat, 2019, 2023
 - [FuE-Intensität Unternehmenssektor (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/fue-intensitaet-unternehmenssektor-eu-vergleich.html): Eurostat, 2023
-- [Bevölkerungsdynamik 2000-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsdynamik-2000-2024.html): Eurostat, 2024
+- [Bevölkerungsentwicklung 2010-2024 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerungsentwicklung-2010-2024-eu-vergleich.html): Eurostat, 2024
+- [Bevölkerung im erwerbsfähigen Alter 2010-2025 (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/bevoelkerung-im-erwerbsfaehigen-alter-2010-2025-eu-vergleich.html): Eurostat, 2010-2025
 - [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): Eurostat, 2024
 - [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): Eurostat, 2024
 - [Beschäftigte mit tertiärer Ausbildung (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): Eurostat, 2024
