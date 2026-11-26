@@ -213,4 +213,4 @@ svg.prof [data-tip] { cursor: help; } svg.prof a[data-tip] { cursor: pointer; }
   document.addEventListener('mouseout', function (ev) { var el = ev.target.closest && ev.target.closest('[data-tip]'); if (el && !el.contains(ev.relatedTarget)) hide(); });
   document.addEventListener('touchstart', function (ev) { var el = ev.target.closest && ev.target.closest('[data-tip]:not(a)'); if (el) { var t = ev.touches[0]; show(el.getAttribute('data-tip'), t.clientX, t.clientY); } else hide(); }, {passive: true});
 })();
-</script><script src="../suche.js" data-root="../"></script></body></html>
+</script><script src="../suche.js?v=bcc18b34" data-root="../"></script></body></html>
