@@ -2,7 +2,7 @@
 
 > Der ifo Faktenmonitor wurde mit Unterstützung der Mitteldeutschen Stiftung Wissenschaft und Bildung erstellt und im Mai 2025 erstmalig der Öffentlichkeit vorgestellt. Enthalten sind rund 300 wirtschaftsbezogene Indikatoren für alle 16 Bundesländer (meist für die Jahre ab 2019). Für einige Indikatoren werden darüber hinaus auch Vergleichsdaten für europäische (NUTS-1-)Regionen und Länder bereitgestellt.
 
-Stand: 15.11.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
+Stand: 25.11.2026. Alle Daten maschinenlesbar: https://faktenmonitor.github.io/faktenmonitor_daten.csv
 
 Lizenz: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), nicht-kommerzielle Nutzung mit Quellenangabe; kommerzielle Nutzung nur nach Vereinbarung (ragnitz@ifo.de). Einzelheiten: https://faktenmonitor.github.io/lizenz.html. Quellenangabe: ifo Faktenmonitor, ifo Institut / Mitteldeutsche Stiftung Wissenschaft und Bildung
 
@@ -375,6 +375,7 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Unternehmensgründungen je 100 Bestandsunternehmen (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/unternehmensgruendungen-je-100-bestandsunternehmen-eu-vergleich.html): Eurostat, 2024
 - [Unternehmensgründungen je 1.000 Einwohner 20-64 Jahre (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/unternehmensgruendungen-je-1-000-einwohner-20-64-jahre-eu-vergleich.html): Eurostat, 2024
 - [Unternehmensschließungen je 100 Bestandsunternehmen (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/unternehmensschliessungen-je-100-bestandsunternehmen-eu-vergleich.html): Eurostat, 2024
+- [Selbständigenquote (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/selbstaendigenquote-eu-vergleich.html): Eurostat, 2023
 - [Beschäftigte in High-Tech-Sektoren (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-in-high-tech-sektoren.html): Eurostat, 2024
 - [Humanressourcen in wissensintensiven Berufen/Branchen (HRST) (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/humanressourcen-in-wissensintensiven-berufen-branchen-hrst.html): Eurostat, 2024
 - [Beschäftigte mit tertiärer Ausbildung (EU-Vergleich)](https://faktenmonitor.github.io/eu-vergleichsdaten/beschaeftigte-mit-tertiaerer-ausbildung.html): Eurostat, 2024
