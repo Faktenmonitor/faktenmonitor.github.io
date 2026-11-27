@@ -84,15 +84,15 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 ## Investitionen, Kapitalstock
 
-- [Bruttoanlageinvestitionen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
-- [Bruttoanlageinvestitionen je Erwerbstätigen; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-westdeutschland-100.html): AK VGR der Länder, 2019-2023
-- [Bruttoanlageinvestitionen in % des BIP](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-in-prozent-des-bip.html): AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Bruttoanlageinvestitionen je Erwerbstätigen; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-westdeutschland-100.html): AK VGR der Länder, 2019-2024
+- [Bruttoanlageinvestitionen in % des BIP](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-in-prozent-des-bip.html): AK VGR der Länder, 2019-2024
 - [Kapitalstock je Erwerbstätigen (Kapitalintensität); Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/kapitalstock-je-erwerbstaetigen-kapitalintensitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
 - [Modernitätsgrad des Kapitalstocks](https://faktenmonitor.github.io/investitionen-kapitalstock/modernitaetsgrad-des-kapitalstocks.html): AK VGR der Länder, 2019-2023
 - [Kapitalproduktivität; Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/kapitalproduktivitaet-westdeutschland-100.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
-- [Bruttoanlageinvestitionen je Einwohner, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-unternehmenssektor-westdeutschl.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
-- [Bruttoanlageinvestitionen je Erwerbstätigen, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-unternehmenssektor-westde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
-- [Bauinvestitionen des Staates je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bauinvestitionen-des-staates-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2023
+- [Bruttoanlageinvestitionen je Einwohner, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-einwohner-unternehmenssektor-westdeutschl.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2024
+- [Bruttoanlageinvestitionen je Erwerbstätigen, Unternehmenssektor, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bruttoanlageinvestitionen-je-erwerbstaetigen-unternehmenssektor-westde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2024
+- [Bauinvestitionen des Staates je Einwohner, Westdeutschland=100](https://faktenmonitor.github.io/investitionen-kapitalstock/bauinvestitionen-des-staates-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
 - [Ausländische Direktinvestitionen im Inland, Bestand je Einwohner](https://faktenmonitor.github.io/investitionen-kapitalstock/auslaendische-direktinvestitionen-im-inland-bestand-je-einwohner.html): Deutsche Bundesbank, 2021-2024
 - [Direktinvestitionen im Ausland, Bestand je Einwohner](https://faktenmonitor.github.io/investitionen-kapitalstock/direktinvestitionen-im-ausland-bestand-je-einwohner.html): Deutsche Bundesbank, 2021-2024
 - [Ausländische Direktinvestitionen im Inland nach ausgewählten Herkunftsländern](https://faktenmonitor.github.io/investitionen-kapitalstock/auslaendische-direktinvestitionen-im-inland-nach-ausgewaehlten-herkunf.html): Deutsche Bundesbank, 2021-2024
@@ -152,8 +152,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 - [Primäreinkommen je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/primaereinkommen-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
 - [Nettosteuerquote in %](https://faktenmonitor.github.io/einkommen/nettosteuerquote-in-prozent.html): AK VGR der Länder, 2019-2024
 - [Transferabhängigkeit in % der Binnennachfrage](https://faktenmonitor.github.io/einkommen/transferabhaengigkeit-in-prozent-der-binnennachfrage.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2019-2023
-- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-verfuegbare-einkommen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-kaufkraft-je-einwohner.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2023
+- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-verfuegbare-einkommen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
+- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/einkommen/binnendifferenzierung-kaufkraft-je-einwohner.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder/BBSR, 2024
 - [Inflationsrate (Lebenhaltungspreise)](https://faktenmonitor.github.io/einkommen/inflationsrate-lebenhaltungspreise.html): Statistisches Bundesamt, 2020-2025
 - [Private Konsumausgaben je Einwohner; Westdeutschland=100](https://faktenmonitor.github.io/einkommen/private-konsumausgaben-je-einwohner-westdeutschland-100.html): AK VGR der Länder, 2019-2024
 
@@ -356,8 +356,8 @@ DOI (Zenodo, aktuelle Fassung): https://doi.org/10.5281/zenodo.23663010
 
 - [Binnendifferenzierung BIP je Arbeitsstunde](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-arbeitsstunde.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
 - [Binnendifferenzierung BIP je Erwerbstätigen](https://faktenmonitor.github.io/binnendifferenzierung/bip-je-erwerbstaetigen.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
-- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
-- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2023
+- [Binnendifferenzierung Verfügbare Einkommen](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-nominal.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
+- [Binnendifferenzierung Kaufkraft je Einwohner](https://faktenmonitor.github.io/binnendifferenzierung/verfuegbare-einkommen-real.html): eigene Berechnung auf Basis Grunddaten AK VGR der Länder, 2024
 - [Binnendifferenzierung Arbeitslosenquote](https://faktenmonitor.github.io/binnendifferenzierung/arbeitslosenquote.html): eigene Berechnung auf Basis Grunddaten Bundesagentur für Arbeit, 2025
 
 ## EU-Vergleichsdaten
